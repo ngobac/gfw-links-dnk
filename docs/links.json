@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-17T04:36:38+07:00",
+ "generated_at": "2026-10-17T12:51:36+07:00",
  "count": 340,
  "plots": [
   {
@@ -8,7 +8,7 @@
    "geostore_id": "9d88d315e03f2939f0fd190244276d0e",
    "geom_hash": "81e31c4dcff76d34f8dad18f8772286f",
    "status": "alive",
-   "last_checked": "2026-10-17T02:59:52+07:00",
+   "last_checked": "2026-10-17T12:46:27+07:00",
    "geom_updated_at": "2026-10-13T11:17:32+07:00"
   },
   {
@@ -17,7 +17,7 @@
    "geostore_id": "492ae0da9869108fdc680e1ebab1ddaa",
    "geom_hash": "19bad395de68af903bd9064ef0ac109c",
    "status": "alive",
-   "last_checked": "2026-10-17T02:59:52+07:00",
+   "last_checked": "2026-10-17T12:46:29+07:00",
    "geom_updated_at": "2026-10-13T11:17:32+07:00"
   },
   {
@@ -26,7 +26,7 @@
    "geostore_id": "b385888367868996b1cd8291c8e2bb04",
    "geom_hash": "e841d7cddb4137b9a280fac0dc918f74",
    "status": "alive",
-   "last_checked": "2026-10-17T02:59:53+07:00",
+   "last_checked": "2026-10-17T12:46:29+07:00",
    "geom_updated_at": "2026-10-13T11:17:33+07:00"
   },
   {
@@ -35,7 +35,7 @@
    "geostore_id": "b0476e201c6bc837219fbb26237f26f7",
    "geom_hash": "955b70ab397e28abb80d785ee24a60d2",
    "status": "alive",
-   "last_checked": "2026-10-17T02:59:54+07:00",
+   "last_checked": "2026-10-17T12:46:30+07:00",
    "geom_updated_at": "2026-10-13T11:17:34+07:00"
   },
   {
@@ -44,7 +44,7 @@
    "geostore_id": "f96e6312320c4a8afddc6849e2c5652a",
    "geom_hash": "565f6910d7df86502ae3af3757e225bb",
    "status": "alive",
-   "last_checked": "2026-10-17T02:59:54+07:00",
+   "last_checked": "2026-10-17T12:46:31+07:00",
    "geom_updated_at": "2026-10-13T11:17:35+07:00"
   },
   {
@@ -53,7 +53,7 @@
    "geostore_id": "16049fa1ba7c13f64e60448ef2c98987",
    "geom_hash": "02c882f4d420ffa6c5314cdc90efe2dd",
    "status": "alive",
-   "last_checked": "2026-10-17T02:59:55+07:00",
+   "last_checked": "2026-10-17T12:46:33+07:00",
    "geom_updated_at": "2026-10-13T11:17:35+07:00"
   },
   {
@@ -62,7 +62,7 @@
    "geostore_id": "43938b8f40b45bb19b89d9dcf9558b8c",
    "geom_hash": "2616e15295a5531a94474c8dd7553a5b",
    "status": "alive",
-   "last_checked": "2026-10-17T02:59:56+07:00",
+   "last_checked": "2026-10-17T12:46:33+07:00",
    "geom_updated_at": "2026-10-13T11:17:36+07:00"
   },
   {
@@ -71,7 +71,7 @@
    "geostore_id": "1218718cee4483e5fb2f6d0064267aa7",
    "geom_hash": "5a06f839e5cbae28fef341525e26203a",
    "status": "alive",
-   "last_checked": "2026-10-17T02:59:56+07:00",
+   "last_checked": "2026-10-17T12:46:34+07:00",
    "geom_updated_at": "2026-10-13T11:17:37+07:00"
   },
   {
@@ -80,7 +80,7 @@
    "geostore_id": "ab136eaa2b9501b0de2573aa1212c500",
    "geom_hash": "10acbc35ea8409d531c7bfb2f0187419",
    "status": "alive",
-   "last_checked": "2026-10-17T02:59:57+07:00",
+   "last_checked": "2026-10-17T12:46:36+07:00",
    "geom_updated_at": "2026-10-13T11:17:37+07:00"
   },
   {
@@ -89,7 +89,7 @@
    "geostore_id": "aeb1f2dcf7f54c5b905c20df9c182c91",
    "geom_hash": "d1a1da2f83c6d6ba895182de3b431646",
    "status": "alive",
-   "last_checked": "2026-10-17T02:59:58+07:00",
+   "last_checked": "2026-10-17T12:46:36+07:00",
    "geom_updated_at": "2026-10-13T11:17:38+07:00"
   },
   {
@@ -98,7 +98,7 @@
    "geostore_id": "ee6c5188697eff61ca514bbd51aad5b4",
    "geom_hash": "92a768d5e782af099ff9f1f0861dad67",
    "status": "alive",
-   "last_checked": "2026-10-17T02:59:58+07:00",
+   "last_checked": "2026-10-17T12:46:37+07:00",
    "geom_updated_at": "2026-10-13T11:17:39+07:00"
   },
   {
@@ -107,7 +107,7 @@
    "geostore_id": "26292b5983e798220c8726cc99f79289",
    "geom_hash": "825170ad69218892c15439a9a9907fc2",
    "status": "alive",
-   "last_checked": "2026-10-17T02:59:59+07:00",
+   "last_checked": "2026-10-17T12:46:38+07:00",
    "geom_updated_at": "2026-10-13T11:17:39+07:00"
   },
   {
@@ -116,7 +116,7 @@
    "geostore_id": "4744f3a7a55d27c4ff419f79bfc1786e",
    "geom_hash": "d8f147e9f8fe96956e45674bb4f60388",
    "status": "alive",
-   "last_checked": "2026-10-17T03:00:00+07:00",
+   "last_checked": "2026-10-17T12:46:39+07:00",
    "geom_updated_at": "2026-10-13T11:17:40+07:00"
   },
   {
@@ -125,7 +125,7 @@
    "geostore_id": "68c13c8f25d9686c3d749d99539f0e4c",
    "geom_hash": "bc90b9d3dd8f3c71d1513cb07d32bfec",
    "status": "alive",
-   "last_checked": "2026-10-17T03:00:01+07:00",
+   "last_checked": "2026-10-17T12:46:42+07:00",
    "geom_updated_at": "2026-10-13T11:17:40+07:00"
   },
   {
@@ -134,7 +134,7 @@
    "geostore_id": "3feb25a18395e6426061ff7430fb277f",
    "geom_hash": "93df5e3f5c3f1da06797a23db60986bf",
    "status": "alive",
-   "last_checked": "2026-10-17T03:00:01+07:00",
+   "last_checked": "2026-10-17T12:46:43+07:00",
    "geom_updated_at": "2026-10-13T11:17:41+07:00"
   },
   {
@@ -143,7 +143,7 @@
    "geostore_id": "f57a85c9c90dba9f97a3463f4d039c69",
    "geom_hash": "37b0b368eb0b32969e8661b37eec5a29",
    "status": "alive",
-   "last_checked": "2026-10-17T03:00:02+07:00",
+   "last_checked": "2026-10-17T12:46:43+07:00",
    "geom_updated_at": "2026-10-13T11:17:42+07:00"
   },
   {
@@ -152,7 +152,7 @@
    "geostore_id": "de472fb73130f6051dd6e838e19adca0",
    "geom_hash": "cbad749ee0d0979e8829b30af42f9fc1",
    "status": "alive",
-   "last_checked": "2026-10-17T03:00:03+07:00",
+   "last_checked": "2026-10-17T12:46:44+07:00",
    "geom_updated_at": "2026-10-13T11:17:42+07:00"
   },
   {
@@ -161,7 +161,7 @@
    "geostore_id": "9e4e86d9792a824044b57496ba6efff0",
    "geom_hash": "93dcbcc6cb241f8a7694b2e0c8d18884",
    "status": "alive",
-   "last_checked": "2026-10-17T03:00:03+07:00",
+   "last_checked": "2026-10-17T12:46:45+07:00",
    "geom_updated_at": "2026-10-13T11:17:43+07:00"
   },
   {
@@ -170,7 +170,7 @@
    "geostore_id": "60e45f729732eb591f8c57e6305457a2",
    "geom_hash": "4bc12474a595adba73d25a2a762bdc54",
    "status": "alive",
-   "last_checked": "2026-10-17T03:00:04+07:00",
+   "last_checked": "2026-10-17T12:46:46+07:00",
    "geom_updated_at": "2026-10-13T11:17:43+07:00"
   },
   {
@@ -179,7 +179,7 @@
    "geostore_id": "359f0387a6d905b3570b26a4ea3d7c6e",
    "geom_hash": "a7f2e4c90bff6785bdc1af867c358b97",
    "status": "alive",
-   "last_checked": "2026-10-17T03:00:04+07:00",
+   "last_checked": "2026-10-17T12:46:46+07:00",
    "geom_updated_at": "2026-10-13T11:17:44+07:00"
   },
   {
@@ -188,7 +188,7 @@
    "geostore_id": "87dc4ec931dbf770a906ab8743108fcc",
    "geom_hash": "5f8051ff8670a113b4f5b279cc3e25d8",
    "status": "alive",
-   "last_checked": "2026-10-17T03:00:05+07:00",
+   "last_checked": "2026-10-17T12:46:47+07:00",
    "geom_updated_at": "2026-10-13T11:17:45+07:00"
   },
   {
@@ -197,7 +197,7 @@
    "geostore_id": "6af77af87422bb861b4b0e304a557d4e",
    "geom_hash": "2aca9a58fda8a043cbe6840d0acdd03d",
    "status": "alive",
-   "last_checked": "2026-10-17T03:00:06+07:00",
+   "last_checked": "2026-10-17T12:46:47+07:00",
    "geom_updated_at": "2026-10-13T11:17:45+07:00"
   },
   {
@@ -206,7 +206,7 @@
    "geostore_id": "d3d4fb4963efe8d47d07e24d1ca5b82f",
    "geom_hash": "a23ad7c3dbd8cb439fb26fe1006e7abd",
    "status": "alive",
-   "last_checked": "2026-10-17T03:00:07+07:00",
+   "last_checked": "2026-10-17T12:46:49+07:00",
    "geom_updated_at": "2026-10-13T11:17:46+07:00"
   },
   {
@@ -215,7 +215,7 @@
    "geostore_id": "270e31a64b864cb8919ba425da97592e",
    "geom_hash": "6580aaba1f068534e587c2040bf6b300",
    "status": "alive",
-   "last_checked": "2026-10-17T03:00:08+07:00",
+   "last_checked": "2026-10-17T12:46:51+07:00",
    "geom_updated_at": "2026-10-13T11:17:46+07:00"
   },
   {
@@ -224,7 +224,7 @@
    "geostore_id": "27ce4bc0eb6041e957e8ab8ffaf48a5a",
    "geom_hash": "9afc256fc5dacd26c658eed556d2a004",
    "status": "alive",
-   "last_checked": "2026-10-17T03:00:08+07:00",
+   "last_checked": "2026-10-17T12:46:52+07:00",
    "geom_updated_at": "2026-10-13T11:17:47+07:00"
   },
   {
@@ -233,7 +233,7 @@
    "geostore_id": "1299e9b82dab9f9703ff098354396aac",
    "geom_hash": "8050a89c0bbe982bf1a07d1f8482540b",
    "status": "alive",
-   "last_checked": "2026-10-17T03:00:09+07:00",
+   "last_checked": "2026-10-17T12:46:53+07:00",
    "geom_updated_at": "2026-10-13T11:17:47+07:00"
   },
   {
@@ -242,7 +242,7 @@
    "geostore_id": "1704950b4a56f8759c4575a175e0b72e",
    "geom_hash": "242e2962305ac98994a1bf45998763f9",
    "status": "alive",
-   "last_checked": "2026-10-17T03:00:09+07:00",
+   "last_checked": "2026-10-17T12:46:54+07:00",
    "geom_updated_at": "2026-10-13T11:17:48+07:00"
   },
   {
@@ -251,7 +251,7 @@
    "geostore_id": "f8a48257e2b68860ad58e6b2c7c3fd72",
    "geom_hash": "2e68e89bf9bf07268c48d9ca7b992a34",
    "status": "alive",
-   "last_checked": "2026-10-17T03:00:10+07:00",
+   "last_checked": "2026-10-17T12:46:56+07:00",
    "geom_updated_at": "2026-10-13T11:17:49+07:00"
   },
   {
@@ -260,7 +260,7 @@
    "geostore_id": "df0e2d7ee727d98110c351a6abbdcc00",
    "geom_hash": "087cc9ea2d1dfa73f59ace8b4e859c3f",
    "status": "alive",
-   "last_checked": "2026-10-17T03:00:10+07:00",
+   "last_checked": "2026-10-17T12:46:56+07:00",
    "geom_updated_at": "2026-10-13T11:17:49+07:00"
   },
   {
@@ -269,7 +269,7 @@
    "geostore_id": "6d87a11c22e73bfd91241ddddd4f38b0",
    "geom_hash": "3b9b0be451e7a154c8ac9f7f4fc68d91",
    "status": "alive",
-   "last_checked": "2026-10-17T03:00:11+07:00",
+   "last_checked": "2026-10-17T12:46:57+07:00",
    "geom_updated_at": "2026-10-13T11:17:50+07:00"
   },
   {
@@ -278,7 +278,7 @@
    "geostore_id": "8c28b3c0c836d4bbd70bda675c004769",
    "geom_hash": "282dc839611b8965efbfd9d899909ba9",
    "status": "alive",
-   "last_checked": "2026-10-17T03:00:11+07:00",
+   "last_checked": "2026-10-17T12:46:59+07:00",
    "geom_updated_at": "2026-10-13T11:17:50+07:00"
   },
   {
@@ -287,7 +287,7 @@
    "geostore_id": "c12797a00b6f346fb9ba28dd84d644cd",
    "geom_hash": "75f30dad9d637e06b4580e0554b1633a",
    "status": "alive",
-   "last_checked": "2026-10-17T03:00:12+07:00",
+   "last_checked": "2026-10-17T12:47:00+07:00",
    "geom_updated_at": "2026-10-13T11:17:51+07:00"
   },
   {
@@ -296,7 +296,7 @@
    "geostore_id": "17cd41e2dd738084f835d397eb96ee52",
    "geom_hash": "95e1e1aad83341bcf9ef44cffdec90a6",
    "status": "alive",
-   "last_checked": "2026-10-17T03:00:12+07:00",
+   "last_checked": "2026-10-17T12:47:01+07:00",
    "geom_updated_at": "2026-10-13T11:17:51+07:00"
   },
   {
@@ -305,7 +305,7 @@
    "geostore_id": "d4bf961984332cf760b6b12a34c045b1",
    "geom_hash": "05967a6f40feb50e7f1bff3847322d7f",
    "status": "alive",
-   "last_checked": "2026-10-17T03:00:13+07:00",
+   "last_checked": "2026-10-17T12:47:03+07:00",
    "geom_updated_at": "2026-10-13T11:17:52+07:00"
   },
   {
@@ -314,7 +314,7 @@
    "geostore_id": "7752823240f04dea352776d6429bdfa0",
    "geom_hash": "e525aec8cde2cf7bd68b1c10de6f253c",
    "status": "alive",
-   "last_checked": "2026-10-17T03:00:14+07:00",
+   "last_checked": "2026-10-17T12:47:03+07:00",
    "geom_updated_at": "2026-10-13T11:17:53+07:00"
   },
   {
@@ -323,7 +323,7 @@
    "geostore_id": "95779e81a83063e66f81a5e035739fd1",
    "geom_hash": "f7414fe7f1ea74a3c919fa136d5360ea",
    "status": "alive",
-   "last_checked": "2026-10-17T03:00:14+07:00",
+   "last_checked": "2026-10-17T12:47:04+07:00",
    "geom_updated_at": "2026-10-13T11:17:53+07:00"
   },
   {
@@ -332,7 +332,7 @@
    "geostore_id": "b96da8bdf17be47edb5e2d809d0a82bc",
    "geom_hash": "6d6b28f6035841b97f2cd9e441855da8",
    "status": "alive",
-   "last_checked": "2026-10-17T03:00:15+07:00",
+   "last_checked": "2026-10-17T12:47:05+07:00",
    "geom_updated_at": "2026-10-13T11:17:54+07:00"
   },
   {
@@ -341,7 +341,7 @@
    "geostore_id": "f6d371bc58170213e84f4c1cc6ddd284",
    "geom_hash": "a633b732887c3b2526671bd8a465ce1b",
    "status": "alive",
-   "last_checked": "2026-10-17T03:00:16+07:00",
+   "last_checked": "2026-10-17T12:47:06+07:00",
    "geom_updated_at": "2026-10-13T11:17:54+07:00"
   },
   {
@@ -350,7 +350,7 @@
    "geostore_id": "bd9aca1e2614bbe56d7b124d94e7f3dc",
    "geom_hash": "95c0991a7d088115c3ff78a2ba8e6367",
    "status": "alive",
-   "last_checked": "2026-10-17T03:00:16+07:00",
+   "last_checked": "2026-10-17T12:47:06+07:00",
    "geom_updated_at": "2026-10-13T11:17:55+07:00"
   },
   {
@@ -359,7 +359,7 @@
    "geostore_id": "740be50f2aab68abe852e2e4345491da",
    "geom_hash": "ad15062c247259e088c09004adb267ff",
    "status": "alive",
-   "last_checked": "2026-10-17T03:00:17+07:00",
+   "last_checked": "2026-10-17T12:47:07+07:00",
    "geom_updated_at": "2026-10-13T11:17:55+07:00"
   },
   {
@@ -368,7 +368,7 @@
    "geostore_id": "b4477a116df7bedbe5cad18b58af31cb",
    "geom_hash": "40e57f8bbdd924d1d42bb48b469ad93e",
    "status": "alive",
-   "last_checked": "2026-10-17T03:00:17+07:00",
+   "last_checked": "2026-10-17T12:47:08+07:00",
    "geom_updated_at": "2026-10-13T11:17:56+07:00"
   },
   {
@@ -377,7 +377,7 @@
    "geostore_id": "278184ae2a9e5f93ee955b322931d49c",
    "geom_hash": "167a68e08c94b90acfddb509a2d04e86",
    "status": "alive",
-   "last_checked": "2026-10-17T03:00:18+07:00",
+   "last_checked": "2026-10-17T12:47:09+07:00",
    "geom_updated_at": "2026-10-13T11:17:57+07:00"
   },
   {
@@ -386,7 +386,7 @@
    "geostore_id": "1d2ac6cf0da764e8666448482da2f272",
    "geom_hash": "4c49e4a3619942e004c60c40ad2c315d",
    "status": "alive",
-   "last_checked": "2026-10-17T03:00:19+07:00",
+   "last_checked": "2026-10-17T12:47:10+07:00",
    "geom_updated_at": "2026-10-13T11:17:57+07:00"
   },
   {
@@ -395,7 +395,7 @@
    "geostore_id": "47d8b52249b4deae4a1f9cbe84f5bcb2",
    "geom_hash": "4fed8c81b04392a9af5fe3941c43ba16",
    "status": "alive",
-   "last_checked": "2026-10-17T03:00:19+07:00",
+   "last_checked": "2026-10-17T12:47:11+07:00",
    "geom_updated_at": "2026-10-13T11:17:58+07:00"
   },
   {
@@ -404,7 +404,7 @@
    "geostore_id": "8311b828bbd3d4e611293a2a16854373",
    "geom_hash": "8f0cc4d1fb3db3779e9c2089e38887de",
    "status": "alive",
-   "last_checked": "2026-10-17T03:00:20+07:00",
+   "last_checked": "2026-10-17T12:47:12+07:00",
    "geom_updated_at": "2026-10-13T11:17:58+07:00"
   },
   {
@@ -413,7 +413,7 @@
    "geostore_id": "1295c410693b1498a741d0940f15d4b5",
    "geom_hash": "a702fde081aac41b641fafc64256ab68",
    "status": "alive",
-   "last_checked": "2026-10-17T03:00:21+07:00",
+   "last_checked": "2026-10-17T12:47:13+07:00",
    "geom_updated_at": "2026-10-13T11:17:59+07:00"
   },
   {
@@ -422,7 +422,7 @@
    "geostore_id": "9426fdf83b350c1f94470f9158a8a35f",
    "geom_hash": "44d6957f5efcaeab879c949a47831119",
    "status": "alive",
-   "last_checked": "2026-10-17T03:00:21+07:00",
+   "last_checked": "2026-10-17T12:47:14+07:00",
    "geom_updated_at": "2026-10-13T11:17:59+07:00"
   },
   {
@@ -431,7 +431,7 @@
    "geostore_id": "be0345a4b79cb4da5fee9ff9f7a3906b",
    "geom_hash": "bcf4dac6944eb03801f7e7fb00759b0f",
    "status": "alive",
-   "last_checked": "2026-10-17T03:00:22+07:00",
+   "last_checked": "2026-10-17T12:47:15+07:00",
    "geom_updated_at": "2026-10-13T11:18:00+07:00"
   },
   {
@@ -440,7 +440,7 @@
    "geostore_id": "f7d36afb074563b58cac7cb0a3b0a5b0",
    "geom_hash": "e102625f37154836c8334953962f697e",
    "status": "alive",
-   "last_checked": "2026-10-17T03:00:23+07:00",
+   "last_checked": "2026-10-17T12:47:16+07:00",
    "geom_updated_at": "2026-10-13T11:18:01+07:00"
   },
   {
@@ -449,7 +449,7 @@
    "geostore_id": "6c0d4d228d807b4f75940a3dd02b6852",
    "geom_hash": "91242dc2aecc475f3ccbc6ad4bf6e0e5",
    "status": "alive",
-   "last_checked": "2026-10-17T03:00:23+07:00",
+   "last_checked": "2026-10-17T12:47:17+07:00",
    "geom_updated_at": "2026-10-13T11:18:01+07:00"
   },
   {
@@ -458,7 +458,7 @@
    "geostore_id": "d8c54215c20232a9cb309845a66c4f27",
    "geom_hash": "5dc1f53e2c0cf4bfc407aeb4b6eb3e6e",
    "status": "alive",
-   "last_checked": "2026-10-17T03:00:24+07:00",
+   "last_checked": "2026-10-17T12:47:19+07:00",
    "geom_updated_at": "2026-10-13T11:18:02+07:00"
   },
   {
@@ -467,7 +467,7 @@
    "geostore_id": "1923a0e7cf82b8dfdeb185669da0307e",
    "geom_hash": "a2e887f527887f54c267d95a5f8173ec",
    "status": "alive",
-   "last_checked": "2026-10-17T03:00:24+07:00",
+   "last_checked": "2026-10-17T12:47:20+07:00",
    "geom_updated_at": "2026-10-13T11:18:02+07:00"
   },
   {
@@ -476,7 +476,7 @@
    "geostore_id": "1ad10655b8f93ac4694221864b132f35",
    "geom_hash": "23fbaa8bf85d0eddb2f0b821345d4652",
    "status": "alive",
-   "last_checked": "2026-10-17T03:00:25+07:00",
+   "last_checked": "2026-10-17T12:47:21+07:00",
    "geom_updated_at": "2026-10-13T11:18:03+07:00"
   },
   {
@@ -485,7 +485,7 @@
    "geostore_id": "d86eb583006d4983401000629c27c9cc",
    "geom_hash": "f8ecc7e3eaba1cef546824e706868f83",
    "status": "alive",
-   "last_checked": "2026-10-17T03:00:26+07:00",
+   "last_checked": "2026-10-17T12:47:22+07:00",
    "geom_updated_at": "2026-10-13T11:18:04+07:00"
   },
   {
@@ -494,7 +494,7 @@
    "geostore_id": "8a97023f5ed416a493c01d1e9551c2c8",
    "geom_hash": "6eb646ea6b6f95258d30a5d38eae6a77",
    "status": "alive",
-   "last_checked": "2026-10-17T03:00:27+07:00",
+   "last_checked": "2026-10-17T12:47:23+07:00",
    "geom_updated_at": "2026-10-13T11:18:04+07:00"
   },
   {
@@ -503,7 +503,7 @@
    "geostore_id": "8d98fc7c5617022b19ec55f6c32b2763",
    "geom_hash": "94ef689990f429280754834b0bbde33b",
    "status": "alive",
-   "last_checked": "2026-10-17T03:00:27+07:00",
+   "last_checked": "2026-10-17T12:47:24+07:00",
    "geom_updated_at": "2026-10-13T11:18:05+07:00"
   },
   {
@@ -512,7 +512,7 @@
    "geostore_id": "e6d483612ae0f06669eb62b141454ef9",
    "geom_hash": "7cb37185a9efade0a104124ce43a6533",
    "status": "alive",
-   "last_checked": "2026-10-17T03:00:28+07:00",
+   "last_checked": "2026-10-17T12:47:26+07:00",
    "geom_updated_at": "2026-10-13T11:18:05+07:00"
   },
   {
@@ -521,7 +521,7 @@
    "geostore_id": "cec0f551d5d4e3b50abe228567cce078",
    "geom_hash": "d0dc4c6fc1c6ec086f83e4e98d524b85",
    "status": "alive",
-   "last_checked": "2026-10-17T03:00:28+07:00",
+   "last_checked": "2026-10-17T12:47:27+07:00",
    "geom_updated_at": "2026-10-13T11:18:06+07:00"
   },
   {
@@ -530,7 +530,7 @@
    "geostore_id": "ccd8f04876130c90553c1da34f115e69",
    "geom_hash": "6f5a6a4ef110e55496e1f723a428a174",
    "status": "alive",
-   "last_checked": "2026-10-17T03:00:29+07:00",
+   "last_checked": "2026-10-17T12:47:28+07:00",
    "geom_updated_at": "2026-10-13T11:18:06+07:00"
   },
   {
@@ -539,7 +539,7 @@
    "geostore_id": "832ec7f97dfc64996b0ad2d0d169dce3",
    "geom_hash": "867a181862359efdd2230011752a17d2",
    "status": "alive",
-   "last_checked": "2026-10-17T03:00:29+07:00",
+   "last_checked": "2026-10-17T12:47:29+07:00",
    "geom_updated_at": "2026-10-13T11:18:07+07:00"
   },
   {
@@ -548,7 +548,7 @@
    "geostore_id": "ff6fca97e30925c1a48377db25b80af1",
    "geom_hash": "cbb483dbe14c0857164be6bede19d4ca",
    "status": "alive",
-   "last_checked": "2026-10-17T03:00:30+07:00",
+   "last_checked": "2026-10-17T12:47:29+07:00",
    "geom_updated_at": "2026-10-13T11:18:08+07:00"
   },
   {
@@ -557,7 +557,7 @@
    "geostore_id": "bdd9be953e713083312db9a202c5c7e9",
    "geom_hash": "ea4a5f84ccd24f0253c155a0899530e9",
    "status": "alive",
-   "last_checked": "2026-10-17T03:00:30+07:00",
+   "last_checked": "2026-10-17T12:47:30+07:00",
    "geom_updated_at": "2026-10-13T11:18:08+07:00"
   },
   {
@@ -566,7 +566,7 @@
    "geostore_id": "fd640b559e1d2be800134d96cd3759d2",
    "geom_hash": "2ec936390c8a287b5f86333dc476cdf1",
    "status": "alive",
-   "last_checked": "2026-10-17T03:00:30+07:00",
+   "last_checked": "2026-10-17T12:47:30+07:00",
    "geom_updated_at": "2026-10-13T11:18:09+07:00"
   },
   {
@@ -575,7 +575,7 @@
    "geostore_id": "091db8186ac89044be8b0a2a0151f6ae",
    "geom_hash": "7a03a4f708ff3045e9cc85b1fcbd62ec",
    "status": "alive",
-   "last_checked": "2026-10-17T03:00:31+07:00",
+   "last_checked": "2026-10-17T12:47:31+07:00",
    "geom_updated_at": "2026-10-13T11:18:09+07:00"
   },
   {
@@ -584,7 +584,7 @@
    "geostore_id": "d65fe4a002b4064be7c33a87721e21cd",
    "geom_hash": "b7bb219d45bffe41fea357ae73e9a7e5",
    "status": "alive",
-   "last_checked": "2026-10-17T03:00:32+07:00",
+   "last_checked": "2026-10-17T12:47:32+07:00",
    "geom_updated_at": "2026-10-13T11:18:10+07:00"
   },
   {
@@ -593,7 +593,7 @@
    "geostore_id": "e77afd639adb21ed3881987dc85db6ce",
    "geom_hash": "51198ffb5e05b4ef1228a3f6a2670c8e",
    "status": "alive",
-   "last_checked": "2026-10-17T03:00:32+07:00",
+   "last_checked": "2026-10-17T12:47:33+07:00",
    "geom_updated_at": "2026-10-13T11:18:11+07:00"
   },
   {
@@ -602,7 +602,7 @@
    "geostore_id": "ef782ffb9f1fbdbe94e130583470b0e8",
    "geom_hash": "83c7b292f32e87a3b9de027052f4cd90",
    "status": "alive",
-   "last_checked": "2026-10-17T03:00:33+07:00",
+   "last_checked": "2026-10-17T12:47:33+07:00",
    "geom_updated_at": "2026-10-13T11:18:11+07:00"
   },
   {
@@ -611,7 +611,7 @@
    "geostore_id": "8fff8f4c8ee759d8a99afdfb474905eb",
    "geom_hash": "34ddc15ca26b96716c5603c7959ca621",
    "status": "alive",
-   "last_checked": "2026-10-17T03:00:34+07:00",
+   "last_checked": "2026-10-17T12:47:34+07:00",
    "geom_updated_at": "2026-10-13T11:18:12+07:00"
   },
   {
@@ -620,7 +620,7 @@
    "geostore_id": "973f716c16fc53adc7caed0d0917dac9",
    "geom_hash": "17b83c39aa769ebf944ecb1e93190729",
    "status": "alive",
-   "last_checked": "2026-10-17T03:00:34+07:00",
+   "last_checked": "2026-10-17T12:47:36+07:00",
    "geom_updated_at": "2026-10-13T11:18:12+07:00"
   },
   {
@@ -629,7 +629,7 @@
    "geostore_id": "79d2e871f90c2cf3428c243906b6daf9",
    "geom_hash": "a09d29d4190f948f8774e928f6c4de40",
    "status": "alive",
-   "last_checked": "2026-10-17T03:00:35+07:00",
+   "last_checked": "2026-10-17T12:47:36+07:00",
    "geom_updated_at": "2026-10-13T11:18:13+07:00"
   },
   {
@@ -638,7 +638,7 @@
    "geostore_id": "4c0af621d53d833088c63dd1f5a8a1fb",
    "geom_hash": "be3f78312f7a8f4877ae860e8b0ce20c",
    "status": "alive",
-   "last_checked": "2026-10-17T03:00:35+07:00",
+   "last_checked": "2026-10-17T12:47:37+07:00",
    "geom_updated_at": "2026-10-13T11:18:13+07:00"
   },
   {
@@ -647,7 +647,7 @@
    "geostore_id": "e3678b188ba483c725c6414f755e4e90",
    "geom_hash": "a831378aaaba5d1de58797b965383d94",
    "status": "alive",
-   "last_checked": "2026-10-17T03:00:36+07:00",
+   "last_checked": "2026-10-17T12:47:38+07:00",
    "geom_updated_at": "2026-10-13T11:18:14+07:00"
   },
   {
@@ -656,7 +656,7 @@
    "geostore_id": "1865b2719b0570572a5a18c724df3139",
    "geom_hash": "5a5cdf84f7a3531dd7f90520286aee1a",
    "status": "alive",
-   "last_checked": "2026-10-17T03:00:36+07:00",
+   "last_checked": "2026-10-17T12:47:38+07:00",
    "geom_updated_at": "2026-10-13T11:18:14+07:00"
   },
   {
@@ -665,7 +665,7 @@
    "geostore_id": "a19e1aeb69727a94af7612ba1958ac19",
    "geom_hash": "11ec060dbc4b818bbba04b5d564b241b",
    "status": "alive",
-   "last_checked": "2026-10-17T03:00:37+07:00",
+   "last_checked": "2026-10-17T12:47:39+07:00",
    "geom_updated_at": "2026-10-13T11:18:15+07:00"
   },
   {
@@ -674,7 +674,7 @@
    "geostore_id": "a590a5dc8f0530a56fabf54ef8ebf1b5",
    "geom_hash": "05e7de048ec8009dbe9aa2815268faec",
    "status": "alive",
-   "last_checked": "2026-10-17T03:00:37+07:00",
+   "last_checked": "2026-10-17T12:47:39+07:00",
    "geom_updated_at": "2026-10-13T11:18:16+07:00"
   },
   {
@@ -683,7 +683,7 @@
    "geostore_id": "5cba2a514de4ddd1f433cfa035837907",
    "geom_hash": "1014184b8333a1b1db58477b8f0fc523",
    "status": "alive",
-   "last_checked": "2026-10-17T03:00:38+07:00",
+   "last_checked": "2026-10-17T12:47:40+07:00",
    "geom_updated_at": "2026-10-13T11:18:16+07:00"
   },
   {
@@ -692,7 +692,7 @@
    "geostore_id": "e29ceff48a271a6d6a9191222298d35d",
    "geom_hash": "51d9ed7e2737968ef9079508b2bd6584",
    "status": "alive",
-   "last_checked": "2026-10-17T03:00:39+07:00",
+   "last_checked": "2026-10-17T12:47:40+07:00",
    "geom_updated_at": "2026-10-13T11:18:17+07:00"
   },
   {
@@ -701,7 +701,7 @@
    "geostore_id": "29176fd9ee54ee63be6a1d7b3b3ae7c1",
    "geom_hash": "9cf545eeadcba299592eb8bdaeff6060",
    "status": "alive",
-   "last_checked": "2026-10-17T03:00:39+07:00",
+   "last_checked": "2026-10-17T12:47:41+07:00",
    "geom_updated_at": "2026-10-13T11:18:17+07:00"
   },
   {
@@ -710,7 +710,7 @@
    "geostore_id": "84c738148dd843603a8c618d0bcbc7b5",
    "geom_hash": "045047fd74f0a24cc0a5a77b9791d381",
    "status": "alive",
-   "last_checked": "2026-10-17T03:00:40+07:00",
+   "last_checked": "2026-10-17T12:47:41+07:00",
    "geom_updated_at": "2026-10-13T11:18:18+07:00"
   },
   {
@@ -719,7 +719,7 @@
    "geostore_id": "71d486ec61a9af88a53c3a1a71e9925a",
    "geom_hash": "1f2a8fae58fc8b62c6b8bd77797df331",
    "status": "alive",
-   "last_checked": "2026-10-17T03:00:40+07:00",
+   "last_checked": "2026-10-17T12:47:42+07:00",
    "geom_updated_at": "2026-10-13T11:18:19+07:00"
   },
   {
@@ -728,7 +728,7 @@
    "geostore_id": "49caf1570dc45a8f8eca2310ea349672",
    "geom_hash": "6fa116c64a7f3ceda0a84f8d5a2a577f",
    "status": "alive",
-   "last_checked": "2026-10-17T03:00:41+07:00",
+   "last_checked": "2026-10-17T12:47:44+07:00",
    "geom_updated_at": "2026-10-13T11:18:19+07:00"
   },
   {
@@ -737,7 +737,7 @@
    "geostore_id": "498cc9f6a6ffa1f43e9b31e44af57688",
    "geom_hash": "2d64a001d05af98407007fab55e0c37b",
    "status": "alive",
-   "last_checked": "2026-10-17T03:00:41+07:00",
+   "last_checked": "2026-10-17T12:47:44+07:00",
    "geom_updated_at": "2026-10-13T11:18:20+07:00"
   },
   {
@@ -746,7 +746,7 @@
    "geostore_id": "833df0bea8c0f23ae2472c087ca8a39f",
    "geom_hash": "448660d6f7580cfbc3111af51cdc5f8f",
    "status": "alive",
-   "last_checked": "2026-10-17T03:00:42+07:00",
+   "last_checked": "2026-10-17T12:47:45+07:00",
    "geom_updated_at": "2026-10-13T11:18:20+07:00"
   },
   {
@@ -755,7 +755,7 @@
    "geostore_id": "ddde7df2dbe1141c84e31b51c283b841",
    "geom_hash": "48c478cdae95d3366f4a0a5c6f4dea38",
    "status": "alive",
-   "last_checked": "2026-10-17T03:00:42+07:00",
+   "last_checked": "2026-10-17T12:47:45+07:00",
    "geom_updated_at": "2026-10-13T11:18:21+07:00"
   },
   {
@@ -764,7 +764,7 @@
    "geostore_id": "24332c2e7697af524d499b2c648b64f7",
    "geom_hash": "e64e906fcadd4e2b3af65729a99f0be8",
    "status": "alive",
-   "last_checked": "2026-10-17T03:00:42+07:00",
+   "last_checked": "2026-10-17T12:47:46+07:00",
    "geom_updated_at": "2026-10-13T11:18:21+07:00"
   },
   {
@@ -773,7 +773,7 @@
    "geostore_id": "c02571f932d2b0a4c562548733650e8b",
    "geom_hash": "17ed75af8ccb078d565d5df1f38e0c5b",
    "status": "alive",
-   "last_checked": "2026-10-17T03:00:43+07:00",
+   "last_checked": "2026-10-17T12:47:46+07:00",
    "geom_updated_at": "2026-10-13T11:18:22+07:00"
   },
   {
@@ -782,7 +782,7 @@
    "geostore_id": "76ad35201363ec60fca895f48bbcf504",
    "geom_hash": "07f1ca7257f2ffcf4cab5bd8fd831032",
    "status": "alive",
-   "last_checked": "2026-10-17T03:00:43+07:00",
+   "last_checked": "2026-10-17T12:47:47+07:00",
    "geom_updated_at": "2026-10-13T11:18:22+07:00"
   },
   {
@@ -791,7 +791,7 @@
    "geostore_id": "e6dcaa5ea68fe284880591a96ed64acd",
    "geom_hash": "769a66f76e83c3f6991727951b3022b6",
    "status": "alive",
-   "last_checked": "2026-10-17T03:00:44+07:00",
+   "last_checked": "2026-10-17T12:47:47+07:00",
    "geom_updated_at": "2026-10-13T11:18:23+07:00"
   },
   {
@@ -800,7 +800,7 @@
    "geostore_id": "60ff526c7d7cf46fc7c044cf9bd836b4",
    "geom_hash": "d52aaba0515713ffc38aa5dae098d6c0",
    "status": "alive",
-   "last_checked": "2026-10-17T03:00:45+07:00",
+   "last_checked": "2026-10-17T12:47:48+07:00",
    "geom_updated_at": "2026-10-13T11:18:23+07:00"
   },
   {
@@ -809,7 +809,7 @@
    "geostore_id": "aea71d8cb5114cae0ae37629aaeec95b",
    "geom_hash": "5501474c03aea11604e6858fb4ea0374",
    "status": "alive",
-   "last_checked": "2026-10-17T03:00:45+07:00",
+   "last_checked": "2026-10-17T12:47:48+07:00",
    "geom_updated_at": "2026-10-13T11:18:24+07:00"
   },
   {
@@ -818,7 +818,7 @@
    "geostore_id": "e9c9170046654843c920e0150d1b5445",
    "geom_hash": "88b570ac91c6e4234b43884f1f2b6277",
    "status": "alive",
-   "last_checked": "2026-10-17T03:00:46+07:00",
+   "last_checked": "2026-10-17T12:47:49+07:00",
    "geom_updated_at": "2026-10-13T11:18:25+07:00"
   },
   {
@@ -827,7 +827,7 @@
    "geostore_id": "185dad940aacc3af7705e6ef651c201b",
    "geom_hash": "d32eb5b595b1750f1cfcf4903dd3a230",
    "status": "alive",
-   "last_checked": "2026-10-17T03:00:46+07:00",
+   "last_checked": "2026-10-17T12:47:49+07:00",
    "geom_updated_at": "2026-10-13T11:18:25+07:00"
   },
   {
@@ -836,7 +836,7 @@
    "geostore_id": "baec51a0342216464223a125bad8cf2c",
    "geom_hash": "460a6cf1432c8ae8c777e7792dd97894",
    "status": "alive",
-   "last_checked": "2026-10-17T03:00:47+07:00",
+   "last_checked": "2026-10-17T12:47:50+07:00",
    "geom_updated_at": "2026-10-13T11:18:26+07:00"
   },
   {
@@ -845,7 +845,7 @@
    "geostore_id": "f3ae4d80662fb294d5f1a3ebf5182fb3",
    "geom_hash": "d73bde41c7650c56ad7349c3fa5edb0f",
    "status": "alive",
-   "last_checked": "2026-10-17T03:00:48+07:00",
+   "last_checked": "2026-10-17T12:47:50+07:00",
    "geom_updated_at": "2026-10-13T11:18:26+07:00"
   },
   {
@@ -854,7 +854,7 @@
    "geostore_id": "0f61138a6265fd4f15da3e44b7cb0457",
    "geom_hash": "5d5ca593f009c4a4e78ce4c8330b350a",
    "status": "alive",
-   "last_checked": "2026-10-17T03:00:48+07:00",
+   "last_checked": "2026-10-17T12:47:51+07:00",
    "geom_updated_at": "2026-10-13T11:18:27+07:00"
   },
   {
@@ -863,7 +863,7 @@
    "geostore_id": "9f40741152c021c71229f28d65aa6b95",
    "geom_hash": "c1f76f57c3f22494557a65eb0c53689e",
    "status": "alive",
-   "last_checked": "2026-10-17T03:00:49+07:00",
+   "last_checked": "2026-10-17T12:47:51+07:00",
    "geom_updated_at": "2026-10-13T11:18:27+07:00"
   },
   {
@@ -872,7 +872,7 @@
    "geostore_id": "aa4b0a14e7de28c0f31802c7fd82260b",
    "geom_hash": "f7f5ecc44f73415a923eb1dcd736fc16",
    "status": "alive",
-   "last_checked": "2026-10-17T03:00:49+07:00",
+   "last_checked": "2026-10-17T12:47:52+07:00",
    "geom_updated_at": "2026-10-13T11:18:28+07:00"
   },
   {
@@ -881,7 +881,7 @@
    "geostore_id": "cbf94829d3a5f65a2184a28d99e89523",
    "geom_hash": "a20d30305145a809773ca8d58a2dec15",
    "status": "alive",
-   "last_checked": "2026-10-17T03:00:50+07:00",
+   "last_checked": "2026-10-17T12:47:52+07:00",
    "geom_updated_at": "2026-10-13T11:18:29+07:00"
   },
   {
@@ -890,7 +890,7 @@
    "geostore_id": "3ad890394917961b9a7c06ec8a335f56",
    "geom_hash": "9c2a21a75499b951716aae8292e362ad",
    "status": "alive",
-   "last_checked": "2026-10-17T03:00:50+07:00",
+   "last_checked": "2026-10-17T12:47:53+07:00",
    "geom_updated_at": "2026-10-13T11:18:29+07:00"
   },
   {
@@ -899,7 +899,7 @@
    "geostore_id": "d9a0731f9c46465db3021dcbedc20ea8",
    "geom_hash": "e948ffa7348f4c0c003add46f7383c7c",
    "status": "alive",
-   "last_checked": "2026-10-17T03:00:51+07:00",
+   "last_checked": "2026-10-17T12:47:53+07:00",
    "geom_updated_at": "2026-10-13T11:18:30+07:00"
   },
   {
@@ -908,7 +908,7 @@
    "geostore_id": "4384e7a32311e8c6f076c4a2cc4248b1",
    "geom_hash": "25d6eb48c993659fca0e68df66d66aa2",
    "status": "alive",
-   "last_checked": "2026-10-17T03:00:51+07:00",
+   "last_checked": "2026-10-17T12:47:54+07:00",
    "geom_updated_at": "2026-10-13T11:18:30+07:00"
   },
   {
@@ -917,7 +917,7 @@
    "geostore_id": "5aa499540eb217062b0f4f115943e43a",
    "geom_hash": "88cc1954ba470e913db48ad938c3d66d",
    "status": "alive",
-   "last_checked": "2026-10-17T03:00:52+07:00",
+   "last_checked": "2026-10-17T12:47:54+07:00",
    "geom_updated_at": "2026-10-13T11:18:31+07:00"
   },
   {
@@ -926,7 +926,7 @@
    "geostore_id": "bdf98e52b30d0f0fd3e79990870c60dc",
    "geom_hash": "65598794cb8c64daafa276279045a4fd",
    "status": "alive",
-   "last_checked": "2026-10-17T03:00:52+07:00",
+   "last_checked": "2026-10-17T12:47:55+07:00",
    "geom_updated_at": "2026-10-13T11:18:31+07:00"
   },
   {
@@ -935,7 +935,7 @@
    "geostore_id": "4aeda4fe0b2330987f41ed0af23d2a4e",
    "geom_hash": "142fa06a10d6b416fa9471962ff46ef7",
    "status": "alive",
-   "last_checked": "2026-10-17T03:00:53+07:00",
+   "last_checked": "2026-10-17T12:47:55+07:00",
    "geom_updated_at": "2026-10-13T11:18:32+07:00"
   },
   {
@@ -944,7 +944,7 @@
    "geostore_id": "b041a28630e0b40d4dc2f659240e7be8",
    "geom_hash": "afd402e0603187276c91ff6ba44b05f0",
    "status": "alive",
-   "last_checked": "2026-10-17T03:00:54+07:00",
+   "last_checked": "2026-10-17T12:47:56+07:00",
    "geom_updated_at": "2026-10-13T11:18:32+07:00"
   },
   {
@@ -953,7 +953,7 @@
    "geostore_id": "a87a81be9e8214f5219851cd3aab3758",
    "geom_hash": "3f6d3c1db138c645e4e31e65a796835d",
    "status": "alive",
-   "last_checked": "2026-10-17T03:00:54+07:00",
+   "last_checked": "2026-10-17T12:47:56+07:00",
    "geom_updated_at": "2026-10-13T11:18:33+07:00"
   },
   {
@@ -962,7 +962,7 @@
    "geostore_id": "8b5483e4e689292acf1d3d1445820471",
    "geom_hash": "84d56f45c4d9ae7a29513c2398c884b0",
    "status": "alive",
-   "last_checked": "2026-10-17T03:00:55+07:00",
+   "last_checked": "2026-10-17T12:47:56+07:00",
    "geom_updated_at": "2026-10-13T11:18:34+07:00"
   },
   {
@@ -971,7 +971,7 @@
    "geostore_id": "2ee5c923bed44b877de34ee1ec494e90",
    "geom_hash": "3471f600204cd488f597bac3b6f58d96",
    "status": "alive",
-   "last_checked": "2026-10-17T03:00:55+07:00",
+   "last_checked": "2026-10-17T12:47:57+07:00",
    "geom_updated_at": "2026-10-13T11:18:34+07:00"
   },
   {
@@ -980,7 +980,7 @@
    "geostore_id": "54d1a439d7d9f5b8fed853bd2d6ade97",
    "geom_hash": "ec3097ffb4ad8140383be64a690f0080",
    "status": "alive",
-   "last_checked": "2026-10-17T03:00:56+07:00",
+   "last_checked": "2026-10-17T12:47:57+07:00",
    "geom_updated_at": "2026-10-13T11:18:35+07:00"
   },
   {
@@ -989,7 +989,7 @@
    "geostore_id": "9e97b65082a4dac70a85f9383cc4c772",
    "geom_hash": "337891e15437d0e74630dc9165c4122f",
    "status": "alive",
-   "last_checked": "2026-10-17T03:00:56+07:00",
+   "last_checked": "2026-10-17T12:47:58+07:00",
    "geom_updated_at": "2026-10-13T11:18:35+07:00"
   },
   {
@@ -998,7 +998,7 @@
    "geostore_id": "fd0200cd7c8c7ec408335398f30d96b4",
    "geom_hash": "9441072e7625f64fab1f9d2cb27a7fb6",
    "status": "alive",
-   "last_checked": "2026-10-17T03:00:57+07:00",
+   "last_checked": "2026-10-17T12:47:58+07:00",
    "geom_updated_at": "2026-10-13T11:18:36+07:00"
   },
   {
@@ -1007,7 +1007,7 @@
    "geostore_id": "70de5886e23b8a65e65186e8f10873f1",
    "geom_hash": "02193e76dd5dcc7bce9a69d3b0992191",
    "status": "alive",
-   "last_checked": "2026-10-17T03:00:57+07:00",
+   "last_checked": "2026-10-17T12:47:59+07:00",
    "geom_updated_at": "2026-10-13T11:18:36+07:00"
   },
   {
@@ -1016,7 +1016,7 @@
    "geostore_id": "fede3460912e4e7ab0fff154a7ffd4ed",
    "geom_hash": "541c08826008b133f26eef37359a0b65",
    "status": "alive",
-   "last_checked": "2026-10-17T03:00:58+07:00",
+   "last_checked": "2026-10-17T12:47:59+07:00",
    "geom_updated_at": "2026-10-13T11:18:37+07:00"
   },
   {
@@ -1025,7 +1025,7 @@
    "geostore_id": "669db35b6fafec6c4db9c5ec5d38f86d",
    "geom_hash": "a5cae42e9748ca7b96d678332f6d59ac",
    "status": "alive",
-   "last_checked": "2026-10-17T03:00:58+07:00",
+   "last_checked": "2026-10-17T12:47:59+07:00",
    "geom_updated_at": "2026-10-13T11:18:37+07:00"
   },
   {
@@ -1034,7 +1034,7 @@
    "geostore_id": "3dfc987331828d190c5f28abe805ab71",
    "geom_hash": "fd3c41fd452ac2bdd466b3fda9ba648e",
    "status": "alive",
-   "last_checked": "2026-10-17T03:00:59+07:00",
+   "last_checked": "2026-10-17T12:48:00+07:00",
    "geom_updated_at": "2026-10-13T11:18:38+07:00"
   },
   {
@@ -1043,7 +1043,7 @@
    "geostore_id": "b8367a978a2e06253a738a7b0fcd90d1",
    "geom_hash": "55f7daea9cb2296d31d0e13e4a7fb8f8",
    "status": "alive",
-   "last_checked": "2026-10-17T03:00:59+07:00",
+   "last_checked": "2026-10-17T12:48:01+07:00",
    "geom_updated_at": "2026-10-13T11:18:39+07:00"
   },
   {
@@ -1052,7 +1052,7 @@
    "geostore_id": "d3fad368ff9d7192a15662983610339e",
    "geom_hash": "8470b7d56b8280c95c43f286f1c4c37f",
    "status": "alive",
-   "last_checked": "2026-10-17T03:01:00+07:00",
+   "last_checked": "2026-10-17T12:48:01+07:00",
    "geom_updated_at": "2026-10-13T11:18:39+07:00"
   },
   {
@@ -1061,7 +1061,7 @@
    "geostore_id": "88bb65bf029060e75ad0d538a1e30118",
    "geom_hash": "cd32d0e91331258c3574c7de46e8af58",
    "status": "alive",
-   "last_checked": "2026-10-17T03:01:00+07:00",
+   "last_checked": "2026-10-17T12:48:01+07:00",
    "geom_updated_at": "2026-10-13T11:18:40+07:00"
   },
   {
@@ -1070,7 +1070,7 @@
    "geostore_id": "c5c42e3b1fd5a182735f543213e74d88",
    "geom_hash": "f0c2352ab3a66385673a316a03a6aaf1",
    "status": "alive",
-   "last_checked": "2026-10-17T03:01:01+07:00",
+   "last_checked": "2026-10-17T12:48:02+07:00",
    "geom_updated_at": "2026-10-13T11:18:40+07:00"
   },
   {
@@ -1079,7 +1079,7 @@
    "geostore_id": "cba93239423f8e80b280683a7cea93fc",
    "geom_hash": "43bd576394801de98188b0fea310d48a",
    "status": "alive",
-   "last_checked": "2026-10-17T03:01:02+07:00",
+   "last_checked": "2026-10-17T12:48:03+07:00",
    "geom_updated_at": "2026-10-13T11:18:41+07:00"
   },
   {
@@ -1088,7 +1088,7 @@
    "geostore_id": "4c260b03d463905c449602fc6bc69300",
    "geom_hash": "76047b0de3e1128e335d210d67864521",
    "status": "alive",
-   "last_checked": "2026-10-17T03:01:02+07:00",
+   "last_checked": "2026-10-17T12:48:03+07:00",
    "geom_updated_at": "2026-10-13T11:18:41+07:00"
   },
   {
@@ -1097,7 +1097,7 @@
    "geostore_id": "e00633a74b1e8099c249a97b111fdfa9",
    "geom_hash": "9522692cbc449a6f4db171e12fc3a55e",
    "status": "alive",
-   "last_checked": "2026-10-17T03:01:03+07:00",
+   "last_checked": "2026-10-17T12:48:03+07:00",
    "geom_updated_at": "2026-10-13T11:18:42+07:00"
   },
   {
@@ -1106,7 +1106,7 @@
    "geostore_id": "2d9260bc9a03db4f5a168a4f9d82cd6c",
    "geom_hash": "1b209ce9cb5748bf0cd4126ddf5774fc",
    "status": "alive",
-   "last_checked": "2026-10-17T03:01:03+07:00",
+   "last_checked": "2026-10-17T12:48:04+07:00",
    "geom_updated_at": "2026-10-13T11:18:43+07:00"
   },
   {
@@ -1115,7 +1115,7 @@
    "geostore_id": "0d10eed517328186a2c33290ee1e6dca",
    "geom_hash": "edf2630708abf6e6144dc34575778e31",
    "status": "alive",
-   "last_checked": "2026-10-17T03:01:03+07:00",
+   "last_checked": "2026-10-17T12:48:05+07:00",
    "geom_updated_at": "2026-10-13T11:18:43+07:00"
   },
   {
@@ -1124,7 +1124,7 @@
    "geostore_id": "13d8560c645491258fdd97f60245280a",
    "geom_hash": "54777421f632fc81a50183aa1c2d9d45",
    "status": "alive",
-   "last_checked": "2026-10-17T03:01:05+07:00",
+   "last_checked": "2026-10-17T12:48:05+07:00",
    "geom_updated_at": "2026-10-13T11:18:44+07:00"
   },
   {
@@ -1133,7 +1133,7 @@
    "geostore_id": "d8032f71e32ee579d5d3a57d5e5389c0",
    "geom_hash": "53e349e49f8538a7a8e4c54784ef534b",
    "status": "alive",
-   "last_checked": "2026-10-17T03:01:05+07:00",
+   "last_checked": "2026-10-17T12:48:06+07:00",
    "geom_updated_at": "2026-10-13T11:18:44+07:00"
   },
   {
@@ -1142,7 +1142,7 @@
    "geostore_id": "5bf4c3ab19fca2ef3646652ed462ba4e",
    "geom_hash": "361f45efed10106e7bc14dfa45cbbf4e",
    "status": "alive",
-   "last_checked": "2026-10-17T03:01:06+07:00",
+   "last_checked": "2026-10-17T12:48:06+07:00",
    "geom_updated_at": "2026-10-13T11:18:45+07:00"
   },
   {
@@ -1151,7 +1151,7 @@
    "geostore_id": "22ed345c46609e86714efd732d239f35",
    "geom_hash": "46466fff356af751f49aa8156ee990eb",
    "status": "alive",
-   "last_checked": "2026-10-17T03:01:06+07:00",
+   "last_checked": "2026-10-17T12:48:07+07:00",
    "geom_updated_at": "2026-10-13T11:18:46+07:00"
   },
   {
@@ -1160,7 +1160,7 @@
    "geostore_id": "3705fc83c942cb8d06f62cf7d628c934",
    "geom_hash": "af13b40abedaae17e9032300468b31c7",
    "status": "alive",
-   "last_checked": "2026-10-17T03:01:07+07:00",
+   "last_checked": "2026-10-17T12:48:07+07:00",
    "geom_updated_at": "2026-10-13T11:18:46+07:00"
   },
   {
@@ -1169,7 +1169,7 @@
    "geostore_id": "cb7926f9dc174af14c2df79e90e94b6b",
    "geom_hash": "b3688c995b09d26bfc23eab8d043c043",
    "status": "alive",
-   "last_checked": "2026-10-17T03:01:07+07:00",
+   "last_checked": "2026-10-17T12:48:07+07:00",
    "geom_updated_at": "2026-10-13T11:18:47+07:00"
   },
   {
@@ -1178,7 +1178,7 @@
    "geostore_id": "fed6932bcf1375f07d865d947dc175c9",
    "geom_hash": "b3fdc16c108fcbe430b9faa008ea0913",
    "status": "alive",
-   "last_checked": "2026-10-17T03:01:08+07:00",
+   "last_checked": "2026-10-17T12:48:08+07:00",
    "geom_updated_at": "2026-10-13T11:18:47+07:00"
   },
   {
@@ -1187,7 +1187,7 @@
    "geostore_id": "3ea71e9d6166d85a4bbf4adaa2b08006",
    "geom_hash": "463bf365f7a41935d645ea1b639c0bcd",
    "status": "alive",
-   "last_checked": "2026-10-17T03:01:08+07:00",
+   "last_checked": "2026-10-17T12:48:08+07:00",
    "geom_updated_at": "2026-10-13T11:18:48+07:00"
   },
   {
@@ -1196,7 +1196,7 @@
    "geostore_id": "910883ccaa4d1cd81a0944604b3ab0d0",
    "geom_hash": "19326efb529c7e195fed6830795b537c",
    "status": "alive",
-   "last_checked": "2026-10-17T03:01:09+07:00",
+   "last_checked": "2026-10-17T12:48:09+07:00",
    "geom_updated_at": "2026-10-13T11:18:48+07:00"
   },
   {
@@ -1205,7 +1205,7 @@
    "geostore_id": "64f2d3eef35d3dd9177a08f6697702fb",
    "geom_hash": "81a01fdbd8d83602ff3515aa0c4aeade",
    "status": "alive",
-   "last_checked": "2026-10-17T03:01:10+07:00",
+   "last_checked": "2026-10-17T12:48:09+07:00",
    "geom_updated_at": "2026-10-13T11:18:49+07:00"
   },
   {
@@ -1214,7 +1214,7 @@
    "geostore_id": "2827fa1693649c09a584a20694865b71",
    "geom_hash": "c3f2d1f98bd35d0ab466e7ee74cb227b",
    "status": "alive",
-   "last_checked": "2026-10-17T03:01:10+07:00",
+   "last_checked": "2026-10-17T12:48:10+07:00",
    "geom_updated_at": "2026-10-13T11:18:49+07:00"
   },
   {
@@ -1223,7 +1223,7 @@
    "geostore_id": "4c1dbeb812ea3295b87127d8762b23c8",
    "geom_hash": "de0a32ef2b128b76c631e345c031529d",
    "status": "alive",
-   "last_checked": "2026-10-17T03:01:10+07:00",
+   "last_checked": "2026-10-17T12:48:10+07:00",
    "geom_updated_at": "2026-10-13T11:18:50+07:00"
   },
   {
@@ -1232,7 +1232,7 @@
    "geostore_id": "4df8bd2e13a6c0c2b760dbbf0f3f33b4",
    "geom_hash": "c2cb3748b533fde5b41fb3c32cc5a066",
    "status": "alive",
-   "last_checked": "2026-10-17T03:01:11+07:00",
+   "last_checked": "2026-10-17T12:48:10+07:00",
    "geom_updated_at": "2026-10-13T11:18:50+07:00"
   },
   {
@@ -1241,7 +1241,7 @@
    "geostore_id": "d15dbdd23939bf4177d36a645c8aa4b8",
    "geom_hash": "344dcc29089f6d5b90f9596ad0bfef9f",
    "status": "alive",
-   "last_checked": "2026-10-17T03:01:11+07:00",
+   "last_checked": "2026-10-17T12:48:11+07:00",
    "geom_updated_at": "2026-10-13T11:18:51+07:00"
   },
   {
@@ -1250,7 +1250,7 @@
    "geostore_id": "b25ed2615be44bd38c18e0cb7d1a24e4",
    "geom_hash": "25be94ee6fb4953c54214c05f3b1be98",
    "status": "alive",
-   "last_checked": "2026-10-17T03:01:12+07:00",
+   "last_checked": "2026-10-17T12:48:12+07:00",
    "geom_updated_at": "2026-10-13T11:18:52+07:00"
   },
   {
@@ -1259,7 +1259,7 @@
    "geostore_id": "ca262e77926dc667c072f2c883a4b2d1",
    "geom_hash": "283df8394fcc1b23193b77dc3a425f21",
    "status": "alive",
-   "last_checked": "2026-10-17T03:01:13+07:00",
+   "last_checked": "2026-10-17T12:48:12+07:00",
    "geom_updated_at": "2026-10-13T11:18:52+07:00"
   },
   {
@@ -1268,7 +1268,7 @@
    "geostore_id": "50f0505ca8a4372b9c8935b7a9950c10",
    "geom_hash": "565300543a2b48d1bb99abd35bf240ca",
    "status": "alive",
-   "last_checked": "2026-10-17T03:01:13+07:00",
+   "last_checked": "2026-10-17T12:48:12+07:00",
    "geom_updated_at": "2026-10-13T11:18:53+07:00"
   },
   {
@@ -1277,7 +1277,7 @@
    "geostore_id": "ac192f8bc7a744c4fa06bb170d0c08a2",
    "geom_hash": "328caeff6be6ed12bda486db8ab5b1c4",
    "status": "alive",
-   "last_checked": "2026-10-17T03:01:13+07:00",
+   "last_checked": "2026-10-17T12:48:13+07:00",
    "geom_updated_at": "2026-10-13T11:18:53+07:00"
   },
   {
@@ -1286,7 +1286,7 @@
    "geostore_id": "8d44f3cef3d2fff96bebe9865f8fb79a",
    "geom_hash": "2051fdc5ae2aafc64a775d80c6a63d86",
    "status": "alive",
-   "last_checked": "2026-10-17T03:01:14+07:00",
+   "last_checked": "2026-10-17T12:48:13+07:00",
    "geom_updated_at": "2026-10-13T11:18:54+07:00"
   },
   {
@@ -1295,7 +1295,7 @@
    "geostore_id": "3e120edb4032f3100e38304a0e699f30",
    "geom_hash": "cb10475cd3f40a90a7272199ad99e8a6",
    "status": "alive",
-   "last_checked": "2026-10-17T03:01:14+07:00",
+   "last_checked": "2026-10-17T12:48:14+07:00",
    "geom_updated_at": "2026-10-13T11:18:54+07:00"
   },
   {
@@ -1304,7 +1304,7 @@
    "geostore_id": "b13366aa09e1f9b998ee774c16adf30f",
    "geom_hash": "4088207090454a3df2e63545093f1f8e",
    "status": "alive",
-   "last_checked": "2026-10-17T03:01:15+07:00",
+   "last_checked": "2026-10-17T12:48:14+07:00",
    "geom_updated_at": "2026-10-13T11:18:55+07:00"
   },
   {
@@ -1313,7 +1313,7 @@
    "geostore_id": "c65a5c53174408c98ba415399e1c7ad4",
    "geom_hash": "4b365f61faa45125e225f1926fd2d961",
    "status": "alive",
-   "last_checked": "2026-10-17T03:01:15+07:00",
+   "last_checked": "2026-10-17T12:48:15+07:00",
    "geom_updated_at": "2026-10-13T11:18:56+07:00"
   },
   {
@@ -1322,7 +1322,7 @@
    "geostore_id": "c82ffe91e012802edae0ace1655673ab",
    "geom_hash": "406293fa33762b710c1ae2559e57dcaa",
    "status": "alive",
-   "last_checked": "2026-10-17T03:01:16+07:00",
+   "last_checked": "2026-10-17T12:48:15+07:00",
    "geom_updated_at": "2026-10-13T11:18:56+07:00"
   },
   {
@@ -1331,7 +1331,7 @@
    "geostore_id": "dc0a5a961eeb9475df6226a40cea9266",
    "geom_hash": "f1b3a6cddbe9660df14b20643c6eca9b",
    "status": "alive",
-   "last_checked": "2026-10-17T03:01:16+07:00",
+   "last_checked": "2026-10-17T12:48:16+07:00",
    "geom_updated_at": "2026-10-13T11:18:57+07:00"
   },
   {
@@ -1340,7 +1340,7 @@
    "geostore_id": "08239df5ee35422febbe7c2c80f772c6",
    "geom_hash": "d1b3a86034d7da4910f7e5d819fce048",
    "status": "alive",
-   "last_checked": "2026-10-17T03:01:17+07:00",
+   "last_checked": "2026-10-17T12:48:16+07:00",
    "geom_updated_at": "2026-10-13T11:18:57+07:00"
   },
   {
@@ -1349,7 +1349,7 @@
    "geostore_id": "355779e45694a576038074237aea3e40",
    "geom_hash": "1c4de5db5dfa9b3d110d56639cb1aa0a",
    "status": "alive",
-   "last_checked": "2026-10-17T03:01:17+07:00",
+   "last_checked": "2026-10-17T12:48:17+07:00",
    "geom_updated_at": "2026-10-13T11:18:58+07:00"
   },
   {
@@ -1358,7 +1358,7 @@
    "geostore_id": "604f6b8ecfd56ec0674ba9b222914da7",
    "geom_hash": "04f37760be9d7ccde3ed02ec63cee5aa",
    "status": "alive",
-   "last_checked": "2026-10-17T03:01:18+07:00",
+   "last_checked": "2026-10-17T12:48:17+07:00",
    "geom_updated_at": "2026-10-13T11:18:58+07:00"
   },
   {
@@ -1367,7 +1367,7 @@
    "geostore_id": "6c988bbc61faaf008dae06dcc2ba30a8",
    "geom_hash": "bde8218bc6cffc084bcd3b73dcbb1b93",
    "status": "alive",
-   "last_checked": "2026-10-17T03:01:18+07:00",
+   "last_checked": "2026-10-17T12:48:17+07:00",
    "geom_updated_at": "2026-10-13T11:18:59+07:00"
   },
   {
@@ -1376,7 +1376,7 @@
    "geostore_id": "9891dd143da8ae9be9a0dd5c63ad0971",
    "geom_hash": "657cc9d2a7cbdca6094ae0f3f9c5d5d9",
    "status": "alive",
-   "last_checked": "2026-10-17T03:01:19+07:00",
+   "last_checked": "2026-10-17T12:48:18+07:00",
    "geom_updated_at": "2026-10-13T11:18:59+07:00"
   },
   {
@@ -1385,7 +1385,7 @@
    "geostore_id": "1bb0aab7eb97927290b706e5dc53eb2a",
    "geom_hash": "ba62c777cd02e88bde68ac08c9208daf",
    "status": "alive",
-   "last_checked": "2026-10-17T03:01:19+07:00",
+   "last_checked": "2026-10-17T12:48:18+07:00",
    "geom_updated_at": "2026-10-13T11:19:00+07:00"
   },
   {
@@ -1394,7 +1394,7 @@
    "geostore_id": "e1867814bb0e668a484a1ac8c6b9e779",
    "geom_hash": "8a0886fca043c0a0b68c8c5fb22928dc",
    "status": "alive",
-   "last_checked": "2026-10-17T03:01:20+07:00",
+   "last_checked": "2026-10-17T12:48:19+07:00",
    "geom_updated_at": "2026-10-13T11:19:00+07:00"
   },
   {
@@ -1403,7 +1403,7 @@
    "geostore_id": "677d2acf2a328db425e05035af8c7b19",
    "geom_hash": "c6ed48e2ef4a6496fd94f883fd34efb2",
    "status": "alive",
-   "last_checked": "2026-10-17T03:01:20+07:00",
+   "last_checked": "2026-10-17T12:48:19+07:00",
    "geom_updated_at": "2026-10-13T11:19:01+07:00"
   },
   {
@@ -1412,7 +1412,7 @@
    "geostore_id": "785a0aeef45e8daff1b686f0d10419ce",
    "geom_hash": "e2868deb25e83037e92fde8705da04a9",
    "status": "alive",
-   "last_checked": "2026-10-17T03:01:21+07:00",
+   "last_checked": "2026-10-17T12:48:20+07:00",
    "geom_updated_at": "2026-10-13T11:19:02+07:00"
   },
   {
@@ -1421,7 +1421,7 @@
    "geostore_id": "a6ada2bc1999f46b89a60db5eb3a2e14",
    "geom_hash": "f1a18f3b80d0934bf3cfc8380cbcb8ea",
    "status": "alive",
-   "last_checked": "2026-10-17T03:01:21+07:00",
+   "last_checked": "2026-10-17T12:48:20+07:00",
    "geom_updated_at": "2026-10-13T11:19:02+07:00"
   },
   {
@@ -1430,7 +1430,7 @@
    "geostore_id": "8e2cf884cfd3cabe220cae93919bf662",
    "geom_hash": "4f89e4a5ef745f122b0d4cdf6def74aa",
    "status": "alive",
-   "last_checked": "2026-10-17T03:01:22+07:00",
+   "last_checked": "2026-10-17T12:48:20+07:00",
    "geom_updated_at": "2026-10-13T11:19:03+07:00"
   },
   {
@@ -1439,7 +1439,7 @@
    "geostore_id": "c740ef5596617c9dfefc016656efabee",
    "geom_hash": "9c482eb4d0c62e7eb6a36a28ba339d25",
    "status": "alive",
-   "last_checked": "2026-10-17T03:01:22+07:00",
+   "last_checked": "2026-10-17T12:48:21+07:00",
    "geom_updated_at": "2026-10-13T11:19:03+07:00"
   },
   {
@@ -1448,7 +1448,7 @@
    "geostore_id": "2073b3017205e7494acb0a05b71fa639",
    "geom_hash": "6e4dd28f0747963e320df61858f11362",
    "status": "alive",
-   "last_checked": "2026-10-17T03:01:23+07:00",
+   "last_checked": "2026-10-17T12:48:21+07:00",
    "geom_updated_at": "2026-10-13T11:19:04+07:00"
   },
   {
@@ -1457,7 +1457,7 @@
    "geostore_id": "2500e8265391c0acc682bcbef4d4d272",
    "geom_hash": "b2596af5c52113062bf0d3cd7845aa71",
    "status": "alive",
-   "last_checked": "2026-10-17T03:01:24+07:00",
+   "last_checked": "2026-10-17T12:48:22+07:00",
    "geom_updated_at": "2026-10-13T11:19:04+07:00"
   },
   {
@@ -1466,7 +1466,7 @@
    "geostore_id": "05f87b602d2c94a109036afa80b2f51f",
    "geom_hash": "2c0888185bb6717f89de591be29f40a9",
    "status": "alive",
-   "last_checked": "2026-10-17T03:01:24+07:00",
+   "last_checked": "2026-10-17T12:48:22+07:00",
    "geom_updated_at": "2026-10-13T11:19:05+07:00"
   },
   {
@@ -1475,7 +1475,7 @@
    "geostore_id": "47ed5498ba5b88619d130c56b4a841bf",
    "geom_hash": "2ee955d53f4f6adda04023eae0846122",
    "status": "alive",
-   "last_checked": "2026-10-17T03:01:24+07:00",
+   "last_checked": "2026-10-17T12:48:23+07:00",
    "geom_updated_at": "2026-10-13T11:19:06+07:00"
   },
   {
@@ -1484,7 +1484,7 @@
    "geostore_id": "1dcdcb94d1a184bfd585ff1a26dbaa37",
    "geom_hash": "b254829b0e8fa491d08eda31eaac4653",
    "status": "alive",
-   "last_checked": "2026-10-17T03:01:25+07:00",
+   "last_checked": "2026-10-17T12:48:23+07:00",
    "geom_updated_at": "2026-10-13T11:19:06+07:00"
   },
   {
@@ -1493,7 +1493,7 @@
    "geostore_id": "d772ca94087e98f5e2e1718777863d49",
    "geom_hash": "09e53e3a18e0b500cb79ccdfb80abb33",
    "status": "alive",
-   "last_checked": "2026-10-17T03:01:25+07:00",
+   "last_checked": "2026-10-17T12:48:24+07:00",
    "geom_updated_at": "2026-10-13T11:19:07+07:00"
   },
   {
@@ -1502,7 +1502,7 @@
    "geostore_id": "ba3d56c52e8d5f6953cfb4d47eac09a9",
    "geom_hash": "b092a4d6792a27bdc14e61ed7c6a919b",
    "status": "alive",
-   "last_checked": "2026-10-17T03:01:26+07:00",
+   "last_checked": "2026-10-17T12:48:24+07:00",
    "geom_updated_at": "2026-10-13T11:19:07+07:00"
   },
   {
@@ -1511,7 +1511,7 @@
    "geostore_id": "07ab10d09fec21a967df3965187f8b39",
    "geom_hash": "08848cbfaf9dd042db94768a5af7655f",
    "status": "alive",
-   "last_checked": "2026-10-17T03:01:26+07:00",
+   "last_checked": "2026-10-17T12:48:25+07:00",
    "geom_updated_at": "2026-10-13T11:19:08+07:00"
   },
   {
@@ -1520,7 +1520,7 @@
    "geostore_id": "f7e6aeea3235fab8fcd2e319697c79c1",
    "geom_hash": "9d9961337098db070b1a4580baf11bd0",
    "status": "alive",
-   "last_checked": "2026-10-17T03:01:27+07:00",
+   "last_checked": "2026-10-17T12:48:25+07:00",
    "geom_updated_at": "2026-10-13T11:19:08+07:00"
   },
   {
@@ -1529,7 +1529,7 @@
    "geostore_id": "960f39cec108b4c7e894755e125c121d",
    "geom_hash": "72f6931a79731b46c2922db768c98ebc",
    "status": "alive",
-   "last_checked": "2026-10-17T03:01:27+07:00",
+   "last_checked": "2026-10-17T12:48:26+07:00",
    "geom_updated_at": "2026-10-13T11:19:09+07:00"
   },
   {
@@ -1538,7 +1538,7 @@
    "geostore_id": "375c1ae51c7ac8642bd868b9ee91e6c8",
    "geom_hash": "3c80e7101f2929d8cacdfe51e45bdc89",
    "status": "alive",
-   "last_checked": "2026-10-17T03:01:28+07:00",
+   "last_checked": "2026-10-17T12:48:26+07:00",
    "geom_updated_at": "2026-10-13T11:19:09+07:00"
   },
   {
@@ -1547,7 +1547,7 @@
    "geostore_id": "40de8ed86b4904a7852388af2f53ea28",
    "geom_hash": "967b88f919875a2423ec993af5d91fbf",
    "status": "alive",
-   "last_checked": "2026-10-17T03:01:29+07:00",
+   "last_checked": "2026-10-17T12:48:26+07:00",
    "geom_updated_at": "2026-10-13T11:19:10+07:00"
   },
   {
@@ -1556,7 +1556,7 @@
    "geostore_id": "2e55b8d469f5dd272c5c64959069632f",
    "geom_hash": "ffb86539dff03d644ad9bf1e013e9a71",
    "status": "alive",
-   "last_checked": "2026-10-17T03:01:29+07:00",
+   "last_checked": "2026-10-17T12:48:27+07:00",
    "geom_updated_at": "2026-10-13T11:19:10+07:00"
   },
   {
@@ -1565,7 +1565,7 @@
    "geostore_id": "e59e007e45f0caea15a3ef74abfadb4a",
    "geom_hash": "374045b82b36995074261529454318ff",
    "status": "alive",
-   "last_checked": "2026-10-17T03:01:30+07:00",
+   "last_checked": "2026-10-17T12:48:27+07:00",
    "geom_updated_at": "2026-10-13T11:19:11+07:00"
   },
   {
@@ -1574,7 +1574,7 @@
    "geostore_id": "701690c60ab20029d447c50f7f804ef9",
    "geom_hash": "f8a19cdde085b2b2a28666cd297210c9",
    "status": "alive",
-   "last_checked": "2026-10-17T03:01:30+07:00",
+   "last_checked": "2026-10-17T12:48:28+07:00",
    "geom_updated_at": "2026-10-13T11:19:12+07:00"
   },
   {
@@ -1583,7 +1583,7 @@
    "geostore_id": "17af9a718d856aa88b2187ade4d627e0",
    "geom_hash": "04db08539b2d740ae6882ac23bebdc4c",
    "status": "alive",
-   "last_checked": "2026-10-17T03:01:31+07:00",
+   "last_checked": "2026-10-17T12:48:29+07:00",
    "geom_updated_at": "2026-10-13T11:19:12+07:00"
   },
   {
@@ -1592,7 +1592,7 @@
    "geostore_id": "e2a394721f4ab4fcc3e7534b3d055676",
    "geom_hash": "77a24529ce1aae5d3c2929a9429d8909",
    "status": "alive",
-   "last_checked": "2026-10-17T03:01:31+07:00",
+   "last_checked": "2026-10-17T12:48:30+07:00",
    "geom_updated_at": "2026-10-13T11:19:13+07:00"
   },
   {
@@ -1601,7 +1601,7 @@
    "geostore_id": "a65368800b2305937bc33c7e17146d53",
    "geom_hash": "2c82c3415b22ba7ed9ea37d164b40e0b",
    "status": "alive",
-   "last_checked": "2026-10-17T03:01:32+07:00",
+   "last_checked": "2026-10-17T12:48:31+07:00",
    "geom_updated_at": "2026-10-13T11:19:13+07:00"
   },
   {
@@ -1610,7 +1610,7 @@
    "geostore_id": "9bfeb1c1e236e276ffe37086a5c5d108",
    "geom_hash": "137d49d44fc3f551e1f30890974fd670",
    "status": "alive",
-   "last_checked": "2026-10-17T03:01:32+07:00",
+   "last_checked": "2026-10-17T12:48:32+07:00",
    "geom_updated_at": "2026-10-13T11:19:14+07:00"
   },
   {
@@ -1619,7 +1619,7 @@
    "geostore_id": "12dd10e9b4e089773dbcc6e0488ab7c0",
    "geom_hash": "58ffa1e99f066afe1b9fbc393d0b826e",
    "status": "alive",
-   "last_checked": "2026-10-17T03:01:33+07:00",
+   "last_checked": "2026-10-17T12:48:33+07:00",
    "geom_updated_at": "2026-10-13T11:19:14+07:00"
   },
   {
@@ -1628,7 +1628,7 @@
    "geostore_id": "fa5688d84a7c035065eb596c5defa935",
    "geom_hash": "bddff9afb8a3392959db5f0018996909",
    "status": "alive",
-   "last_checked": "2026-10-17T03:01:33+07:00",
+   "last_checked": "2026-10-17T12:48:35+07:00",
    "geom_updated_at": "2026-10-13T11:19:15+07:00"
   },
   {
@@ -1637,7 +1637,7 @@
    "geostore_id": "2b3667b3b6f9cbabecf3992af7dee208",
    "geom_hash": "e83860af938c8c215668ad3a912476a3",
    "status": "alive",
-   "last_checked": "2026-10-17T03:01:33+07:00",
+   "last_checked": "2026-10-17T12:48:36+07:00",
    "geom_updated_at": "2026-10-13T11:19:16+07:00"
   },
   {
@@ -1646,7 +1646,7 @@
    "geostore_id": "715d38d84c5bcded6daad0f4d3a6c13b",
    "geom_hash": "e7c13aeb12273533a92b05d43fce1b4f",
    "status": "alive",
-   "last_checked": "2026-10-17T03:01:34+07:00",
+   "last_checked": "2026-10-17T12:48:37+07:00",
    "geom_updated_at": "2026-10-13T11:19:16+07:00"
   },
   {
@@ -1655,7 +1655,7 @@
    "geostore_id": "64871b2f1b28bc9fc3716a238d6aece8",
    "geom_hash": "848fc7efd6c281d9f93ef7e8fe1348fc",
    "status": "alive",
-   "last_checked": "2026-10-17T03:01:34+07:00",
+   "last_checked": "2026-10-17T12:48:38+07:00",
    "geom_updated_at": "2026-10-13T11:19:17+07:00"
   },
   {
@@ -1664,7 +1664,7 @@
    "geostore_id": "a521aeb4005561a00fd5c122be34f668",
    "geom_hash": "69e834f69b064e2427545faafbd18e95",
    "status": "alive",
-   "last_checked": "2026-10-17T03:01:35+07:00",
+   "last_checked": "2026-10-17T12:48:40+07:00",
    "geom_updated_at": "2026-10-13T11:19:17+07:00"
   },
   {
@@ -1673,7 +1673,7 @@
    "geostore_id": "9b03f67a3baa1e5788c2da331b2ae72a",
    "geom_hash": "e6c22c108a2b69a0d479dcf144996d75",
    "status": "alive",
-   "last_checked": "2026-10-17T03:01:35+07:00",
+   "last_checked": "2026-10-17T12:48:41+07:00",
    "geom_updated_at": "2026-10-13T11:19:18+07:00"
   },
   {
@@ -1682,7 +1682,7 @@
    "geostore_id": "0c8831295331b7c97afedcb913782c7a",
    "geom_hash": "1822e1f044ecb0b5e21fcb6fa7dd4763",
    "status": "alive",
-   "last_checked": "2026-10-17T03:01:36+07:00",
+   "last_checked": "2026-10-17T12:48:42+07:00",
    "geom_updated_at": "2026-10-13T11:19:18+07:00"
   },
   {
@@ -1691,7 +1691,7 @@
    "geostore_id": "b68187e8e5482e9ea7cbbb8752087ed1",
    "geom_hash": "d5d0ce22ffd631d3b60c006396f5bf75",
    "status": "alive",
-   "last_checked": "2026-10-17T03:01:36+07:00",
+   "last_checked": "2026-10-17T12:48:43+07:00",
    "geom_updated_at": "2026-10-13T11:19:19+07:00"
   },
   {
@@ -1700,7 +1700,7 @@
    "geostore_id": "e60f57c84c1cad2bf9bd8a2a34749fac",
    "geom_hash": "de3065af792ba00a229e78bffe33762a",
    "status": "alive",
-   "last_checked": "2026-10-17T03:01:37+07:00",
+   "last_checked": "2026-10-17T12:48:44+07:00",
    "geom_updated_at": "2026-10-13T11:19:20+07:00"
   },
   {
@@ -1709,7 +1709,7 @@
    "geostore_id": "eb30f0b8da198cec79243da71368bad1",
    "geom_hash": "8947d76902a876fc0ff00955b8c013be",
    "status": "alive",
-   "last_checked": "2026-10-17T03:01:37+07:00",
+   "last_checked": "2026-10-17T12:48:45+07:00",
    "geom_updated_at": "2026-10-13T11:19:20+07:00"
   },
   {
@@ -1718,7 +1718,7 @@
    "geostore_id": "b351f7d3b6f5adc79f99062a955dc3c7",
    "geom_hash": "2cca2271f199472d2505ad6e3716af83",
    "status": "alive",
-   "last_checked": "2026-10-17T03:01:38+07:00",
+   "last_checked": "2026-10-17T12:48:47+07:00",
    "geom_updated_at": "2026-10-13T11:19:21+07:00"
   },
   {
@@ -1727,7 +1727,7 @@
    "geostore_id": "9c4b3bd895e2276fe575f47bec59d6fd",
    "geom_hash": "f98705619fd53a85f7ca99ec0dec7224",
    "status": "alive",
-   "last_checked": "2026-10-17T03:01:38+07:00",
+   "last_checked": "2026-10-17T12:48:48+07:00",
    "geom_updated_at": "2026-10-13T11:19:21+07:00"
   },
   {
@@ -1736,7 +1736,7 @@
    "geostore_id": "89d30155cce277f2aaf5bae7705f44cb",
    "geom_hash": "d43762abf93efdacb3b0bf55cb190d66",
    "status": "alive",
-   "last_checked": "2026-10-17T03:01:38+07:00",
+   "last_checked": "2026-10-17T12:48:49+07:00",
    "geom_updated_at": "2026-10-13T11:19:22+07:00"
   },
   {
@@ -1745,7 +1745,7 @@
    "geostore_id": "62dc867682e04c6e8a75dadd335f205c",
    "geom_hash": "81a8b9c25d3879397d96f3ba095b393c",
    "status": "alive",
-   "last_checked": "2026-10-17T03:01:39+07:00",
+   "last_checked": "2026-10-17T12:48:51+07:00",
    "geom_updated_at": "2026-10-13T11:19:22+07:00"
   },
   {
@@ -1754,7 +1754,7 @@
    "geostore_id": "475d120e5adc4f45eb0cce741ee4dc53",
    "geom_hash": "f873fca67ab717f76c90f9fdb888674d",
    "status": "alive",
-   "last_checked": "2026-10-17T03:01:40+07:00",
+   "last_checked": "2026-10-17T12:48:52+07:00",
    "geom_updated_at": "2026-10-13T11:19:23+07:00"
   },
   {
@@ -1763,7 +1763,7 @@
    "geostore_id": "e34f834e0d97631cc1b60a21c9a77024",
    "geom_hash": "628a7f938391ba069bd866324a89c26c",
    "status": "alive",
-   "last_checked": "2026-10-17T03:01:41+07:00",
+   "last_checked": "2026-10-17T12:48:53+07:00",
    "geom_updated_at": "2026-10-13T11:19:24+07:00"
   },
   {
@@ -1772,7 +1772,7 @@
    "geostore_id": "20582e5f6bab6d0d87fb3174986d6686",
    "geom_hash": "613678f9d27981b9f3f8180bc5cd412c",
    "status": "alive",
-   "last_checked": "2026-10-17T03:01:41+07:00",
+   "last_checked": "2026-10-17T12:48:54+07:00",
    "geom_updated_at": "2026-10-13T11:19:24+07:00"
   },
   {
@@ -1781,7 +1781,7 @@
    "geostore_id": "8024cfa008e59f44d2ae05621d0497d3",
    "geom_hash": "1d53dc5254a3cc3945865c1338f69828",
    "status": "alive",
-   "last_checked": "2026-10-17T03:01:42+07:00",
+   "last_checked": "2026-10-17T12:48:55+07:00",
    "geom_updated_at": "2026-10-13T11:19:25+07:00"
   },
   {
@@ -1790,7 +1790,7 @@
    "geostore_id": "6f70a0cd588599716680d4fd9f58bfd3",
    "geom_hash": "20390cd3b4f89967761f1aa151614516",
    "status": "alive",
-   "last_checked": "2026-10-17T03:01:42+07:00",
+   "last_checked": "2026-10-17T12:48:56+07:00",
    "geom_updated_at": "2026-10-13T11:19:25+07:00"
   },
   {
@@ -1799,7 +1799,7 @@
    "geostore_id": "6087702c02a12f73aa78323a49fc361d",
    "geom_hash": "703cbab2f36f39edf51ff850940fb79b",
    "status": "alive",
-   "last_checked": "2026-10-17T03:01:43+07:00",
+   "last_checked": "2026-10-17T12:48:58+07:00",
    "geom_updated_at": "2026-10-13T11:19:26+07:00"
   },
   {
@@ -1808,7 +1808,7 @@
    "geostore_id": "e99f34b5eb25584c19aeea40a388adbe",
    "geom_hash": "810bd320bfaffbc5182aabb1770e570f",
    "status": "alive",
-   "last_checked": "2026-10-17T03:01:43+07:00",
+   "last_checked": "2026-10-17T12:48:59+07:00",
    "geom_updated_at": "2026-10-13T11:19:26+07:00"
   },
   {
@@ -1817,7 +1817,7 @@
    "geostore_id": "d18a123b86c8dca2a9feba1581c9a793",
    "geom_hash": "0bce580c961bcf149c885f5f24664a07",
    "status": "alive",
-   "last_checked": "2026-10-17T03:01:44+07:00",
+   "last_checked": "2026-10-17T12:49:00+07:00",
    "geom_updated_at": "2026-10-13T11:19:27+07:00"
   },
   {
@@ -1826,7 +1826,7 @@
    "geostore_id": "52fb618bd63d65949f183782549adc54",
    "geom_hash": "300b9b6e327d70909038c6b39cfe2cc7",
    "status": "alive",
-   "last_checked": "2026-10-17T03:01:44+07:00",
+   "last_checked": "2026-10-17T12:49:02+07:00",
    "geom_updated_at": "2026-10-13T11:19:28+07:00"
   },
   {
@@ -1835,7 +1835,7 @@
    "geostore_id": "f98d803dd2137acb7e3b271dcbf72d26",
    "geom_hash": "28e349cda6e0ea69c3bcf4c0701bacaa",
    "status": "alive",
-   "last_checked": "2026-10-17T03:01:45+07:00",
+   "last_checked": "2026-10-17T12:49:03+07:00",
    "geom_updated_at": "2026-10-13T11:19:28+07:00"
   },
   {
@@ -1844,7 +1844,7 @@
    "geostore_id": "82ea7143439e21233277cb5d9c1dc2fd",
    "geom_hash": "4ddd328891b27cd3b2160c5173b73813",
    "status": "alive",
-   "last_checked": "2026-10-17T03:01:46+07:00",
+   "last_checked": "2026-10-17T12:49:04+07:00",
    "geom_updated_at": "2026-10-13T11:19:29+07:00"
   },
   {
@@ -1853,7 +1853,7 @@
    "geostore_id": "507420e105dffdf4178cb4e7824eca75",
    "geom_hash": "16ce89a7d0d6282204003f66d717f6c7",
    "status": "alive",
-   "last_checked": "2026-10-17T03:01:46+07:00",
+   "last_checked": "2026-10-17T12:49:05+07:00",
    "geom_updated_at": "2026-10-13T11:19:29+07:00"
   },
   {
@@ -1862,7 +1862,7 @@
    "geostore_id": "c5d2cba5a5c5f97d76e9e15404e5234a",
    "geom_hash": "577e59c5b869bf0d7471d79de49e5386",
    "status": "alive",
-   "last_checked": "2026-10-17T03:01:47+07:00",
+   "last_checked": "2026-10-17T12:49:06+07:00",
    "geom_updated_at": "2026-10-13T11:19:30+07:00"
   },
   {
@@ -1871,7 +1871,7 @@
    "geostore_id": "33fb0a59c7a1e2b713a6b17be98b0fb1",
    "geom_hash": "9c9755de1323cc6b055952aeb6e73b06",
    "status": "alive",
-   "last_checked": "2026-10-17T03:01:47+07:00",
+   "last_checked": "2026-10-17T12:49:07+07:00",
    "geom_updated_at": "2026-10-13T11:19:30+07:00"
   },
   {
@@ -1880,7 +1880,7 @@
    "geostore_id": "dbc97e5b9152e8d796ca37d877a2b02f",
    "geom_hash": "13f615056d8b9cd32ee1cf46018ad699",
    "status": "alive",
-   "last_checked": "2026-10-17T03:01:48+07:00",
+   "last_checked": "2026-10-17T12:49:08+07:00",
    "geom_updated_at": "2026-10-13T11:19:31+07:00"
   },
   {
@@ -1889,7 +1889,7 @@
    "geostore_id": "a24b352df7d88f995cd15a73a4b2f820",
    "geom_hash": "37bc4e29b34967bdf96535a1d6b8cf3d",
    "status": "alive",
-   "last_checked": "2026-10-17T03:01:48+07:00",
+   "last_checked": "2026-10-17T12:49:09+07:00",
    "geom_updated_at": "2026-10-13T11:19:31+07:00"
   },
   {
@@ -1898,7 +1898,7 @@
    "geostore_id": "11f9abdf1d5152e07fb86786f548d178",
    "geom_hash": "f0fd6ed2613195a7e0459e6ba3969125",
    "status": "alive",
-   "last_checked": "2026-10-17T03:01:49+07:00",
+   "last_checked": "2026-10-17T12:49:10+07:00",
    "geom_updated_at": "2026-10-13T11:19:32+07:00"
   },
   {
@@ -1907,7 +1907,7 @@
    "geostore_id": "1d5e149b625266430a5a8e8e226d78d1",
    "geom_hash": "8db901444825e65da4ebd45733a2a752",
    "status": "alive",
-   "last_checked": "2026-10-17T03:01:49+07:00",
+   "last_checked": "2026-10-17T12:49:11+07:00",
    "geom_updated_at": "2026-10-13T11:19:33+07:00"
   },
   {
@@ -1916,7 +1916,7 @@
    "geostore_id": "e377a69f99f15f3978a636fb587f8084",
    "geom_hash": "d88328531f59d396f4c4d9ad45ffa342",
    "status": "alive",
-   "last_checked": "2026-10-17T03:01:50+07:00",
+   "last_checked": "2026-10-17T12:49:13+07:00",
    "geom_updated_at": "2026-10-13T11:19:34+07:00"
   },
   {
@@ -1925,7 +1925,7 @@
    "geostore_id": "edd466928d7062d8bf52a65a1b6e6fe0",
    "geom_hash": "2772a7e736bfaaa3116e09aa21ce1081",
    "status": "alive",
-   "last_checked": "2026-10-17T03:01:50+07:00",
+   "last_checked": "2026-10-17T12:49:13+07:00",
    "geom_updated_at": "2026-10-13T11:19:35+07:00"
   },
   {
@@ -1934,7 +1934,7 @@
    "geostore_id": "6d2b9b4c6b2665c74ae75997c24c9a8a",
    "geom_hash": "e424a0403a51a066cf15343f2e5d0390",
    "status": "alive",
-   "last_checked": "2026-10-17T03:01:51+07:00",
+   "last_checked": "2026-10-17T12:49:15+07:00",
    "geom_updated_at": "2026-10-13T11:19:35+07:00"
   },
   {
@@ -1943,7 +1943,7 @@
    "geostore_id": "d3426b8c3a3f2346a719d7ce66a38634",
    "geom_hash": "d4e36973f658e77189c01e853a0f5276",
    "status": "alive",
-   "last_checked": "2026-10-17T03:01:51+07:00",
+   "last_checked": "2026-10-17T12:49:17+07:00",
    "geom_updated_at": "2026-10-13T11:19:36+07:00"
   },
   {
@@ -1952,7 +1952,7 @@
    "geostore_id": "bf3b1bc1d9b92fb5b3f744846a9fd0ff",
    "geom_hash": "20d31ff40abb0d3c4d88dbc490659bad",
    "status": "alive",
-   "last_checked": "2026-10-17T03:01:52+07:00",
+   "last_checked": "2026-10-17T12:49:18+07:00",
    "geom_updated_at": "2026-10-13T11:19:37+07:00"
   },
   {
@@ -1961,7 +1961,7 @@
    "geostore_id": "56a8fb59399fdd0a05c08e71900a6dfc",
    "geom_hash": "1759df923c64a8f75a895ac00359572b",
    "status": "alive",
-   "last_checked": "2026-10-17T03:01:52+07:00",
+   "last_checked": "2026-10-17T12:49:19+07:00",
    "geom_updated_at": "2026-10-13T11:19:37+07:00"
   },
   {
@@ -1970,7 +1970,7 @@
    "geostore_id": "7f7a73598e9491a57d552a12753c852f",
    "geom_hash": "7a955e3db5f0cc1d201556bf8dc8c987",
    "status": "alive",
-   "last_checked": "2026-10-17T03:01:52+07:00",
+   "last_checked": "2026-10-17T12:49:20+07:00",
    "geom_updated_at": "2026-10-13T11:19:38+07:00"
   },
   {
@@ -1979,7 +1979,7 @@
    "geostore_id": "d1de4ea9acfbe6070133fc20d0e507a6",
    "geom_hash": "ea373b9feff1afc6291312b613355a90",
    "status": "alive",
-   "last_checked": "2026-10-17T03:01:53+07:00",
+   "last_checked": "2026-10-17T12:49:22+07:00",
    "geom_updated_at": "2026-10-13T11:19:39+07:00"
   },
   {
@@ -1988,7 +1988,7 @@
    "geostore_id": "4a990a809877c7a44ed53c64e521e46a",
    "geom_hash": "c06ae211eba6a654d702b0be5e9d253f",
    "status": "alive",
-   "last_checked": "2026-10-17T03:01:53+07:00",
+   "last_checked": "2026-10-17T12:49:24+07:00",
    "geom_updated_at": "2026-10-13T11:19:39+07:00"
   },
   {
@@ -1997,7 +1997,7 @@
    "geostore_id": "9a3c23d2d926921f005c968db67d28e8",
    "geom_hash": "21710ec37893c3c9157f610f73984bbd",
    "status": "alive",
-   "last_checked": "2026-10-17T03:01:54+07:00",
+   "last_checked": "2026-10-17T12:49:26+07:00",
    "geom_updated_at": "2026-10-13T11:19:40+07:00"
   },
   {
@@ -2006,7 +2006,7 @@
    "geostore_id": "efe806a45f7b794229a11ecd8083fc05",
    "geom_hash": "786c54b3d1d793e4f221d78a59496a8a",
    "status": "alive",
-   "last_checked": "2026-10-17T03:01:54+07:00",
+   "last_checked": "2026-10-17T12:49:27+07:00",
    "geom_updated_at": "2026-10-13T11:19:40+07:00"
   },
   {
@@ -2015,7 +2015,7 @@
    "geostore_id": "22fd8fa70a3741d2b5fbbc3243c7bacd",
    "geom_hash": "cd48cde3de0464dbfa189f3b718080e3",
    "status": "alive",
-   "last_checked": "2026-10-17T03:01:55+07:00",
+   "last_checked": "2026-10-17T12:49:29+07:00",
    "geom_updated_at": "2026-10-13T11:19:41+07:00"
   },
   {
@@ -2024,7 +2024,7 @@
    "geostore_id": "6c244817a8e8a4fecd612e1dafaa9fe6",
    "geom_hash": "94f10b846ac209d92c97c48da3d614b9",
    "status": "alive",
-   "last_checked": "2026-10-17T03:01:55+07:00",
+   "last_checked": "2026-10-17T12:49:29+07:00",
    "geom_updated_at": "2026-10-13T11:19:42+07:00"
   },
   {
@@ -2033,7 +2033,7 @@
    "geostore_id": "25ba18c2482170ca03c41b32f38586b9",
    "geom_hash": "6441f058a9f631dfbdfce98ef9c21223",
    "status": "alive",
-   "last_checked": "2026-10-17T03:01:56+07:00",
+   "last_checked": "2026-10-17T12:49:31+07:00",
    "geom_updated_at": "2026-10-13T11:19:42+07:00"
   },
   {
@@ -2042,7 +2042,7 @@
    "geostore_id": "b8db5e8a6d2a537336a7beea3404757b",
    "geom_hash": "8da51bb3865b48a4a57923275812791c",
    "status": "alive",
-   "last_checked": "2026-10-17T03:01:56+07:00",
+   "last_checked": "2026-10-17T12:49:33+07:00",
    "geom_updated_at": "2026-10-13T11:19:43+07:00"
   },
   {
@@ -2051,7 +2051,7 @@
    "geostore_id": "122168767cc6488c1c35435f23204527",
    "geom_hash": "768102462179081b6d9d2f143ee2d272",
    "status": "alive",
-   "last_checked": "2026-10-17T03:01:57+07:00",
+   "last_checked": "2026-10-17T12:49:35+07:00",
    "geom_updated_at": "2026-10-13T11:19:43+07:00"
   },
   {
@@ -2060,7 +2060,7 @@
    "geostore_id": "a8b5c6d75011ad53939145e337967504",
    "geom_hash": "edec3ffc3e73bdbed89dd0821cc17f4b",
    "status": "alive",
-   "last_checked": "2026-10-17T03:01:57+07:00",
+   "last_checked": "2026-10-17T12:49:35+07:00",
    "geom_updated_at": "2026-10-13T11:19:44+07:00"
   },
   {
@@ -2069,7 +2069,7 @@
    "geostore_id": "bed0a151a40e6d9552fd76aedee5b799",
    "geom_hash": "e40a68073b2ff3c2270ab3c282e8a291",
    "status": "alive",
-   "last_checked": "2026-10-17T03:01:58+07:00",
+   "last_checked": "2026-10-17T12:49:36+07:00",
    "geom_updated_at": "2026-10-13T11:19:45+07:00"
   },
   {
@@ -2078,7 +2078,7 @@
    "geostore_id": "16cfa084f5a8cb008277251ee8f5f649",
    "geom_hash": "e060024413bf36a615adaf929493d51b",
    "status": "alive",
-   "last_checked": "2026-10-17T03:01:58+07:00",
+   "last_checked": "2026-10-17T12:49:38+07:00",
    "geom_updated_at": "2026-10-13T11:19:45+07:00"
   },
   {
@@ -2087,7 +2087,7 @@
    "geostore_id": "3a553628f243cbb8a1619191076d73af",
    "geom_hash": "2703475792f26a64b907085b6e035bf4",
    "status": "alive",
-   "last_checked": "2026-10-17T03:01:59+07:00",
+   "last_checked": "2026-10-17T12:49:39+07:00",
    "geom_updated_at": "2026-10-13T11:19:46+07:00"
   },
   {
@@ -2096,7 +2096,7 @@
    "geostore_id": "292c634ab723748185aef5c9e1b5faa9",
    "geom_hash": "dd1f2657f52ad4d81ec7c3262aea3c4d",
    "status": "alive",
-   "last_checked": "2026-10-17T03:02:00+07:00",
+   "last_checked": "2026-10-17T12:49:41+07:00",
    "geom_updated_at": "2026-10-13T11:19:47+07:00"
   },
   {
@@ -2105,7 +2105,7 @@
    "geostore_id": "26b31a55386744beed1ea46112926b5e",
    "geom_hash": "2923ee474d8fe307309a56c5a2e6d4e4",
    "status": "alive",
-   "last_checked": "2026-10-17T03:02:00+07:00",
+   "last_checked": "2026-10-17T12:49:42+07:00",
    "geom_updated_at": "2026-10-13T11:19:47+07:00"
   },
   {
@@ -2114,7 +2114,7 @@
    "geostore_id": "b00e75a36b07020a9328c47c6ab9ad51",
    "geom_hash": "063e9d15869215a56f5e403bd5d453af",
    "status": "alive",
-   "last_checked": "2026-10-17T03:02:01+07:00",
+   "last_checked": "2026-10-17T12:49:43+07:00",
    "geom_updated_at": "2026-10-13T11:19:48+07:00"
   },
   {
@@ -2123,7 +2123,7 @@
    "geostore_id": "21dea471632483f966da11d408136432",
    "geom_hash": "3bb400388aa946809381ddeb48f83b48",
    "status": "alive",
-   "last_checked": "2026-10-17T03:02:01+07:00",
+   "last_checked": "2026-10-17T12:49:44+07:00",
    "geom_updated_at": "2026-10-13T11:19:48+07:00"
   },
   {
@@ -2132,7 +2132,7 @@
    "geostore_id": "a1883372bba98265a2e6c1f1154a967b",
    "geom_hash": "e763e5d6b31d6fd15c681d4e9af230b6",
    "status": "alive",
-   "last_checked": "2026-10-17T03:02:01+07:00",
+   "last_checked": "2026-10-17T12:49:45+07:00",
    "geom_updated_at": "2026-10-13T11:19:49+07:00"
   },
   {
@@ -2141,7 +2141,7 @@
    "geostore_id": "820b53ac72b7b104ac9bdb9d403ceeda",
    "geom_hash": "3ce50acd760cff2d639e9552aa1df880",
    "status": "alive",
-   "last_checked": "2026-10-17T03:02:02+07:00",
+   "last_checked": "2026-10-17T12:49:47+07:00",
    "geom_updated_at": "2026-10-13T11:19:50+07:00"
   },
   {
@@ -2150,7 +2150,7 @@
    "geostore_id": "036d4ef2dbf5eaadec44e994c375ed37",
    "geom_hash": "443f3d6325f249c73083b8ba58268128",
    "status": "alive",
-   "last_checked": "2026-10-17T03:02:02+07:00",
+   "last_checked": "2026-10-17T12:49:48+07:00",
    "geom_updated_at": "2026-10-13T11:19:50+07:00"
   },
   {
@@ -2159,7 +2159,7 @@
    "geostore_id": "1e9fbe7ad569be6e899d6ae8c48450b6",
    "geom_hash": "3416d42dac4ff2286717da17966b69ea",
    "status": "alive",
-   "last_checked": "2026-10-17T03:02:03+07:00",
+   "last_checked": "2026-10-17T12:49:49+07:00",
    "geom_updated_at": "2026-10-13T11:19:51+07:00"
   },
   {
@@ -2168,7 +2168,7 @@
    "geostore_id": "ab9796bb7ae78e23b6f68c6248aebc03",
    "geom_hash": "6f63d4df082e27336eed4db4d297b0cd",
    "status": "alive",
-   "last_checked": "2026-10-17T03:02:03+07:00",
+   "last_checked": "2026-10-17T12:49:50+07:00",
    "geom_updated_at": "2026-10-13T11:19:51+07:00"
   },
   {
@@ -2177,7 +2177,7 @@
    "geostore_id": "14fc954c5e3aa3a9975e1612a26d2cf4",
    "geom_hash": "2c242930e53df82df87b7f36c109f368",
    "status": "alive",
-   "last_checked": "2026-10-17T03:02:04+07:00",
+   "last_checked": "2026-10-17T12:49:51+07:00",
    "geom_updated_at": "2026-10-13T11:19:52+07:00"
   },
   {
@@ -2186,7 +2186,7 @@
    "geostore_id": "37b730d129956762a2167de1fd824c4c",
    "geom_hash": "60499dee4fc385d4dafd8f6ffea0ef34",
    "status": "alive",
-   "last_checked": "2026-10-17T03:02:05+07:00",
+   "last_checked": "2026-10-17T12:49:53+07:00",
    "geom_updated_at": "2026-10-13T11:19:52+07:00"
   },
   {
@@ -2195,7 +2195,7 @@
    "geostore_id": "63020f638b44ae9297cae2551702f6b3",
    "geom_hash": "ea5f63e54235077802e14d3466bb886e",
    "status": "alive",
-   "last_checked": "2026-10-17T03:02:06+07:00",
+   "last_checked": "2026-10-17T12:49:54+07:00",
    "geom_updated_at": "2026-10-13T11:19:53+07:00"
   },
   {
@@ -2204,7 +2204,7 @@
    "geostore_id": "ceca2321c47b7a8e0365108fb538c91f",
    "geom_hash": "47d3f76d7ebc9d2bd4b04794bce9e9c2",
    "status": "alive",
-   "last_checked": "2026-10-17T03:02:06+07:00",
+   "last_checked": "2026-10-17T12:49:55+07:00",
    "geom_updated_at": "2026-10-13T11:19:54+07:00"
   },
   {
@@ -2213,7 +2213,7 @@
    "geostore_id": "227addf74ff30c487a20892407c5092d",
    "geom_hash": "5576ac75c34cd63668c02eed80e8f31d",
    "status": "alive",
-   "last_checked": "2026-10-17T03:02:07+07:00",
+   "last_checked": "2026-10-17T12:49:56+07:00",
    "geom_updated_at": "2026-10-13T11:19:54+07:00"
   },
   {
@@ -2222,7 +2222,7 @@
    "geostore_id": "520f595349aff1999fc2d466229ee102",
    "geom_hash": "afc58190bd53def9498d804821114feb",
    "status": "alive",
-   "last_checked": "2026-10-17T03:02:07+07:00",
+   "last_checked": "2026-10-17T12:49:58+07:00",
    "geom_updated_at": "2026-10-13T11:19:55+07:00"
   },
   {
@@ -2231,7 +2231,7 @@
    "geostore_id": "f75d2c389a760fbd27886bd76f095739",
    "geom_hash": "d501e0b9910cae622ea946e31ecc3e39",
    "status": "alive",
-   "last_checked": "2026-10-17T03:02:08+07:00",
+   "last_checked": "2026-10-17T12:49:58+07:00",
    "geom_updated_at": "2026-10-13T11:19:55+07:00"
   },
   {
@@ -2240,7 +2240,7 @@
    "geostore_id": "66efa571ec0d40381f91e350a766fddd",
    "geom_hash": "e0f6171545a5882b438d8f68c32f7491",
    "status": "alive",
-   "last_checked": "2026-10-17T03:02:08+07:00",
+   "last_checked": "2026-10-17T12:49:59+07:00",
    "geom_updated_at": "2026-10-13T11:19:56+07:00"
   },
   {
@@ -2249,7 +2249,7 @@
    "geostore_id": "f0fea957a63905fb4db63ba3a961cfb8",
    "geom_hash": "3b223b6a69c704238dc6c8a9630b3e10",
    "status": "alive",
-   "last_checked": "2026-10-17T03:02:08+07:00",
+   "last_checked": "2026-10-17T12:50:01+07:00",
    "geom_updated_at": "2026-10-13T11:19:57+07:00"
   },
   {
@@ -2258,7 +2258,7 @@
    "geostore_id": "10e79f0cbcc0f0cc2ea6bebc384104ef",
    "geom_hash": "87aa4ff05548be01e4c8d78f6e388aac",
    "status": "alive",
-   "last_checked": "2026-10-17T03:02:09+07:00",
+   "last_checked": "2026-10-17T12:50:02+07:00",
    "geom_updated_at": "2026-10-13T11:19:57+07:00"
   },
   {
@@ -2267,7 +2267,7 @@
    "geostore_id": "5d1269d10b83d238537ef7136e83ef58",
    "geom_hash": "3f6b2cdff4695200dacaec96e916abff",
    "status": "alive",
-   "last_checked": "2026-10-17T03:02:10+07:00",
+   "last_checked": "2026-10-17T12:50:03+07:00",
    "geom_updated_at": "2026-10-13T11:19:58+07:00"
   },
   {
@@ -2276,7 +2276,7 @@
    "geostore_id": "92db32ca3ce3b2f6998662a12fd4d9c7",
    "geom_hash": "a6d38e7e418a1cc3a336f54d472962d3",
    "status": "alive",
-   "last_checked": "2026-10-17T03:02:10+07:00",
+   "last_checked": "2026-10-17T12:50:04+07:00",
    "geom_updated_at": "2026-10-13T11:19:58+07:00"
   },
   {
@@ -2285,7 +2285,7 @@
    "geostore_id": "721815cbdf1d944b32a4e5da85d73b53",
    "geom_hash": "fb22f777ce96fa703c546e783637450c",
    "status": "alive",
-   "last_checked": "2026-10-17T03:02:11+07:00",
+   "last_checked": "2026-10-17T12:50:06+07:00",
    "geom_updated_at": "2026-10-13T11:19:59+07:00"
   },
   {
@@ -2294,7 +2294,7 @@
    "geostore_id": "47a2e09623eb47cbe4b0ea99d5e97b1c",
    "geom_hash": "d02f90d7c6201240269d3ff8195439e2",
    "status": "alive",
-   "last_checked": "2026-10-17T03:02:11+07:00",
+   "last_checked": "2026-10-17T12:50:07+07:00",
    "geom_updated_at": "2026-10-13T11:19:59+07:00"
   },
   {
@@ -2303,7 +2303,7 @@
    "geostore_id": "eb9e9e8f023986c01138d9775b7c86a0",
    "geom_hash": "1fbf58a7360f91d99947f1b1a334817e",
    "status": "alive",
-   "last_checked": "2026-10-17T03:02:11+07:00",
+   "last_checked": "2026-10-17T12:50:08+07:00",
    "geom_updated_at": "2026-10-13T11:20:00+07:00"
   },
   {
@@ -2312,7 +2312,7 @@
    "geostore_id": "f91441707e4273cc128944266fb235c7",
    "geom_hash": "7e425e9a812a25988e53e300d9f6678e",
    "status": "alive",
-   "last_checked": "2026-10-17T03:02:12+07:00",
+   "last_checked": "2026-10-17T12:50:08+07:00",
    "geom_updated_at": "2026-10-13T11:20:01+07:00"
   },
   {
@@ -2321,7 +2321,7 @@
    "geostore_id": "b3db9e5ebf4314c93f04f6bcef3dc35e",
    "geom_hash": "2fe28a2e683bb1664cea4b8dc49d1733",
    "status": "alive",
-   "last_checked": "2026-10-17T03:02:13+07:00",
+   "last_checked": "2026-10-17T12:50:10+07:00",
    "geom_updated_at": "2026-10-13T11:20:01+07:00"
   },
   {
@@ -2330,7 +2330,7 @@
    "geostore_id": "4e4f78e4cc9c7d8e2ad17b7d98b78335",
    "geom_hash": "cbd6b717c038eea819aaf22766bc8ebf",
    "status": "alive",
-   "last_checked": "2026-10-17T03:02:13+07:00",
+   "last_checked": "2026-10-17T12:50:11+07:00",
    "geom_updated_at": "2026-10-13T11:20:02+07:00"
   },
   {
@@ -2339,7 +2339,7 @@
    "geostore_id": "8cc660bf63ead05ebfadbc482280c263",
    "geom_hash": "7f2c2b2c8d835abd8f10aaf09bd436bf",
    "status": "alive",
-   "last_checked": "2026-10-17T03:02:14+07:00",
+   "last_checked": "2026-10-17T12:50:12+07:00",
    "geom_updated_at": "2026-10-13T11:20:02+07:00"
   },
   {
@@ -2348,7 +2348,7 @@
    "geostore_id": "05503ea9f1b95680e737a328c8689a11",
    "geom_hash": "847cd4bc6e1860d6701936537268c823",
    "status": "alive",
-   "last_checked": "2026-10-17T03:02:14+07:00",
+   "last_checked": "2026-10-17T12:50:13+07:00",
    "geom_updated_at": "2026-10-13T11:20:03+07:00"
   },
   {
@@ -2357,7 +2357,7 @@
    "geostore_id": "a46c8a6665cf95bde79926ae3a22a0f0",
    "geom_hash": "38d714e0cf52e30e12a6566131479c74",
    "status": "alive",
-   "last_checked": "2026-10-17T03:02:15+07:00",
+   "last_checked": "2026-10-17T12:50:15+07:00",
    "geom_updated_at": "2026-10-13T11:20:03+07:00"
   },
   {
@@ -2366,7 +2366,7 @@
    "geostore_id": "1e1fa68fa47f3e67e916cc79caa08c64",
    "geom_hash": "cc9f74fc738b11547894470a5d7eddca",
    "status": "alive",
-   "last_checked": "2026-10-17T03:02:15+07:00",
+   "last_checked": "2026-10-17T12:50:16+07:00",
    "geom_updated_at": "2026-10-13T11:20:04+07:00"
   },
   {
@@ -2375,7 +2375,7 @@
    "geostore_id": "50817a967588bcd653e5e2ed918c8d19",
    "geom_hash": "73c8fbe8529bc1c2ede93afa9b454c00",
    "status": "alive",
-   "last_checked": "2026-10-17T03:02:16+07:00",
+   "last_checked": "2026-10-17T12:50:17+07:00",
    "geom_updated_at": "2026-10-13T11:20:05+07:00"
   },
   {
@@ -2384,7 +2384,7 @@
    "geostore_id": "e321889362f0f9101afb77193cc970bd",
    "geom_hash": "5fe3e9b2ea696657587a76cb633eb320",
    "status": "alive",
-   "last_checked": "2026-10-17T03:02:16+07:00",
+   "last_checked": "2026-10-17T12:50:18+07:00",
    "geom_updated_at": "2026-10-13T11:20:05+07:00"
   },
   {
@@ -2393,7 +2393,7 @@
    "geostore_id": "c353119d1acb7b83ab7bac1234db7670",
    "geom_hash": "ef6b78ed146453c74604ad8ab085f4ab",
    "status": "alive",
-   "last_checked": "2026-10-17T03:02:16+07:00",
+   "last_checked": "2026-10-17T12:50:19+07:00",
    "geom_updated_at": "2026-10-13T11:20:06+07:00"
   },
   {
@@ -2402,7 +2402,7 @@
    "geostore_id": "6304b48a8bd523aa58c786081ee51e9b",
    "geom_hash": "88a7b34a17e9d57e5220554ab15d5bc2",
    "status": "alive",
-   "last_checked": "2026-10-17T03:02:17+07:00",
+   "last_checked": "2026-10-17T12:50:21+07:00",
    "geom_updated_at": "2026-10-13T11:20:07+07:00"
   },
   {
@@ -2411,7 +2411,7 @@
    "geostore_id": "8cc5e7584b4795172b7fd2d8f6f2cc86",
    "geom_hash": "aeab330a741d89fdfbbe4d2b11a02c0d",
    "status": "alive",
-   "last_checked": "2026-10-17T03:02:17+07:00",
+   "last_checked": "2026-10-17T12:50:22+07:00",
    "geom_updated_at": "2026-10-13T11:20:07+07:00"
   },
   {
@@ -2420,7 +2420,7 @@
    "geostore_id": "05d53b9980b8991b490eb401c6fe2852",
    "geom_hash": "1ec8a54dafd335065998a792f4776e2f",
    "status": "alive",
-   "last_checked": "2026-10-17T03:02:18+07:00",
+   "last_checked": "2026-10-17T12:50:23+07:00",
    "geom_updated_at": "2026-10-13T11:20:08+07:00"
   },
   {
@@ -2429,7 +2429,7 @@
    "geostore_id": "51b8fe686415eb49a5aa29a868e08909",
    "geom_hash": "db43bf800a858725270b886b35426fbb",
    "status": "alive",
-   "last_checked": "2026-10-17T03:02:18+07:00",
+   "last_checked": "2026-10-17T12:50:24+07:00",
    "geom_updated_at": "2026-10-13T11:20:08+07:00"
   },
   {
@@ -2438,7 +2438,7 @@
    "geostore_id": "e5ade04c46342d23070ce77367894dfa",
    "geom_hash": "f2c03686cd7b06e3ff685ce0469078bc",
    "status": "alive",
-   "last_checked": "2026-10-17T03:02:19+07:00",
+   "last_checked": "2026-10-17T12:50:26+07:00",
    "geom_updated_at": "2026-10-13T11:20:09+07:00"
   },
   {
@@ -2447,7 +2447,7 @@
    "geostore_id": "319da95d31ea00ff1b518df1566526f1",
    "geom_hash": "5f1017b1b12ad9b10680ceb0aa733bb4",
    "status": "alive",
-   "last_checked": "2026-10-17T03:02:19+07:00",
+   "last_checked": "2026-10-17T12:50:27+07:00",
    "geom_updated_at": "2026-10-13T11:20:09+07:00"
   },
   {
@@ -2456,7 +2456,7 @@
    "geostore_id": "d686a26e7b678b216f08a7d70cd19b0c",
    "geom_hash": "cde5e05d5bd7804cb4a2ea19a1429e6f",
    "status": "alive",
-   "last_checked": "2026-10-17T03:02:20+07:00",
+   "last_checked": "2026-10-17T12:50:28+07:00",
    "geom_updated_at": "2026-10-13T11:20:10+07:00"
   },
   {
@@ -2465,7 +2465,7 @@
    "geostore_id": "6c4ecadcd78ee64c35c5daeff0ebda61",
    "geom_hash": "c8f2cf5f197597c32e004e616e29cd03",
    "status": "alive",
-   "last_checked": "2026-10-17T03:02:20+07:00",
+   "last_checked": "2026-10-17T12:50:30+07:00",
    "geom_updated_at": "2026-10-13T11:20:11+07:00"
   },
   {
@@ -2474,7 +2474,7 @@
    "geostore_id": "18d73a1d1a4cebc1dde6ebc5a96681a7",
    "geom_hash": "636b31f54c820caca9305b5bc4e5c111",
    "status": "alive",
-   "last_checked": "2026-10-17T03:02:21+07:00",
+   "last_checked": "2026-10-17T12:50:31+07:00",
    "geom_updated_at": "2026-10-13T11:20:11+07:00"
   },
   {
@@ -2483,7 +2483,7 @@
    "geostore_id": "7ba4d34418e55d079fd9a744c933aa94",
    "geom_hash": "ba1224ee4c669135307bd6bc712aa13b",
    "status": "alive",
-   "last_checked": "2026-10-17T03:02:21+07:00",
+   "last_checked": "2026-10-17T12:50:33+07:00",
    "geom_updated_at": "2026-10-13T11:20:12+07:00"
   },
   {
@@ -2492,7 +2492,7 @@
    "geostore_id": "e6db56da8c3c0222b30952d72622c3b4",
    "geom_hash": "0a8f5fafc1bb1293c3b95a26489f4638",
    "status": "alive",
-   "last_checked": "2026-10-17T03:02:22+07:00",
+   "last_checked": "2026-10-17T12:50:34+07:00",
    "geom_updated_at": "2026-10-13T11:20:12+07:00"
   },
   {
@@ -2501,7 +2501,7 @@
    "geostore_id": "065b372be11370197c7bfd423cf94f8c",
    "geom_hash": "cb239c95f7cf24a5b24ab315aa230db5",
    "status": "alive",
-   "last_checked": "2026-10-17T03:02:22+07:00",
+   "last_checked": "2026-10-17T12:50:36+07:00",
    "geom_updated_at": "2026-10-13T11:20:13+07:00"
   },
   {
@@ -2510,7 +2510,7 @@
    "geostore_id": "b9ee2e13574e9629bfa9648d03a53bfa",
    "geom_hash": "50874e642c1e28c425847eec2bb4d923",
    "status": "alive",
-   "last_checked": "2026-10-17T03:02:23+07:00",
+   "last_checked": "2026-10-17T12:50:37+07:00",
    "geom_updated_at": "2026-10-13T11:20:13+07:00"
   },
   {
@@ -2519,7 +2519,7 @@
    "geostore_id": "137edbdc663801cd269d20cbbafaad53",
    "geom_hash": "e18aacb320346eb2920b219176b001f9",
    "status": "alive",
-   "last_checked": "2026-10-17T03:02:24+07:00",
+   "last_checked": "2026-10-17T12:50:38+07:00",
    "geom_updated_at": "2026-10-13T11:20:14+07:00"
   },
   {
@@ -2528,7 +2528,7 @@
    "geostore_id": "2b3111a821f2d67d77e1e6283a2b8950",
    "geom_hash": "6c017079f0d8b7265b2ad3d4fe761ab9",
    "status": "alive",
-   "last_checked": "2026-10-17T03:02:24+07:00",
+   "last_checked": "2026-10-17T12:50:39+07:00",
    "geom_updated_at": "2026-10-13T11:20:15+07:00"
   },
   {
@@ -2537,7 +2537,7 @@
    "geostore_id": "b21c6b4c53901b6d430453a45150200a",
    "geom_hash": "7705f4f78dd1d9724abfde547cbe93bb",
    "status": "alive",
-   "last_checked": "2026-10-17T03:02:24+07:00",
+   "last_checked": "2026-10-17T12:50:40+07:00",
    "geom_updated_at": "2026-10-13T11:20:15+07:00"
   },
   {
@@ -2546,7 +2546,7 @@
    "geostore_id": "67fe4f5742460402710cbee6969a2bd5",
    "geom_hash": "54c19a93e117356e7a9239b73764d994",
    "status": "alive",
-   "last_checked": "2026-10-17T03:02:25+07:00",
+   "last_checked": "2026-10-17T12:50:41+07:00",
    "geom_updated_at": "2026-10-13T11:20:16+07:00"
   },
   {
@@ -2555,7 +2555,7 @@
    "geostore_id": "6e8400ccda3e5be1ab4af2fcdf62bcd8",
    "geom_hash": "3ac69a1034604bf92b2cc0932a31820a",
    "status": "alive",
-   "last_checked": "2026-10-17T03:02:25+07:00",
+   "last_checked": "2026-10-17T12:50:43+07:00",
    "geom_updated_at": "2026-10-13T11:20:16+07:00"
   },
   {
@@ -2564,7 +2564,7 @@
    "geostore_id": "fc25124935d00a0bf6388588da1bffd7",
    "geom_hash": "1d4d60a9d7ec528bf342ef35266108c3",
    "status": "alive",
-   "last_checked": "2026-10-17T03:02:26+07:00",
+   "last_checked": "2026-10-17T12:50:44+07:00",
    "geom_updated_at": "2026-10-13T11:20:17+07:00"
   },
   {
@@ -2573,7 +2573,7 @@
    "geostore_id": "1c81647b3ac1c32e430c58121b33006e",
    "geom_hash": "400fd95be4df5f0881efd549435f18cb",
    "status": "alive",
-   "last_checked": "2026-10-17T03:02:26+07:00",
+   "last_checked": "2026-10-17T12:50:46+07:00",
    "geom_updated_at": "2026-10-13T11:20:17+07:00"
   },
   {
@@ -2582,7 +2582,7 @@
    "geostore_id": "259908be381fafedd5a37678f5ef97e9",
    "geom_hash": "2fa85ea4947832d48cddb758cf123781",
    "status": "alive",
-   "last_checked": "2026-10-17T03:02:27+07:00",
+   "last_checked": "2026-10-17T12:50:47+07:00",
    "geom_updated_at": "2026-10-13T11:20:18+07:00"
   },
   {
@@ -2591,7 +2591,7 @@
    "geostore_id": "672785dbf00002fcfaa67110829883a2",
    "geom_hash": "5f7a6ddae9980128796e468c96c8b6db",
    "status": "alive",
-   "last_checked": "2026-10-17T03:02:27+07:00",
+   "last_checked": "2026-10-17T12:50:48+07:00",
    "geom_updated_at": "2026-10-13T11:20:18+07:00"
   },
   {
@@ -2600,7 +2600,7 @@
    "geostore_id": "c7781ac1715b35710928bb22d3ab16a9",
    "geom_hash": "58a19f6c9eb9cad21828cdf6e356e810",
    "status": "alive",
-   "last_checked": "2026-10-17T03:02:27+07:00",
+   "last_checked": "2026-10-17T12:50:49+07:00",
    "geom_updated_at": "2026-10-13T11:20:19+07:00"
   },
   {
@@ -2609,7 +2609,7 @@
    "geostore_id": "8fc7a68200b6bf9cedb3fb12097e8686",
    "geom_hash": "70f5300516dffe9c835c7e38f4cfc040",
    "status": "alive",
-   "last_checked": "2026-10-17T03:02:28+07:00",
+   "last_checked": "2026-10-17T12:50:51+07:00",
    "geom_updated_at": "2026-10-13T11:20:20+07:00"
   },
   {
@@ -2618,7 +2618,7 @@
    "geostore_id": "1e06d362c25e7afbe2c82b231cfe9055",
    "geom_hash": "953cbc280970a6d9ad5db1f8341cbc69",
    "status": "alive",
-   "last_checked": "2026-10-17T03:02:28+07:00",
+   "last_checked": "2026-10-17T12:50:52+07:00",
    "geom_updated_at": "2026-10-13T11:20:20+07:00"
   },
   {
@@ -2627,7 +2627,7 @@
    "geostore_id": "b353e8ab7dd715dc91691ec8cdf1a574",
    "geom_hash": "c7d29f34b78ce9d1264e4f41deb38d33",
    "status": "alive",
-   "last_checked": "2026-10-17T03:02:29+07:00",
+   "last_checked": "2026-10-17T12:50:53+07:00",
    "geom_updated_at": "2026-10-13T11:20:21+07:00"
   },
   {
@@ -2636,7 +2636,7 @@
    "geostore_id": "83ea345774f228f82e239b0c3e4e6d51",
    "geom_hash": "985669a7455b059263158f9e65d1c6a2",
    "status": "alive",
-   "last_checked": "2026-10-17T03:02:29+07:00",
+   "last_checked": "2026-10-17T12:50:54+07:00",
    "geom_updated_at": "2026-10-13T11:20:21+07:00"
   },
   {
@@ -2645,7 +2645,7 @@
    "geostore_id": "e59b65f36a3f132c8cedf46014948d16",
    "geom_hash": "ae9ad27defc377ae80e5d9d6f5d56c0e",
    "status": "alive",
-   "last_checked": "2026-10-17T03:02:30+07:00",
+   "last_checked": "2026-10-17T12:50:55+07:00",
    "geom_updated_at": "2026-10-13T11:20:22+07:00"
   },
   {
@@ -2654,7 +2654,7 @@
    "geostore_id": "9da5f86dab3b68b82e13204c1855eae2",
    "geom_hash": "e24ab31c25de8d9e958c94cf43acbd82",
    "status": "alive",
-   "last_checked": "2026-10-17T03:02:31+07:00",
+   "last_checked": "2026-10-17T12:50:56+07:00",
    "geom_updated_at": "2026-10-13T11:20:22+07:00"
   },
   {
@@ -2663,7 +2663,7 @@
    "geostore_id": "fdbb16b36ff7e329b26dcf6b0c619e30",
    "geom_hash": "167938ba50b542cb930a0b38e58cbc92",
    "status": "alive",
-   "last_checked": "2026-10-17T03:02:31+07:00",
+   "last_checked": "2026-10-17T12:50:57+07:00",
    "geom_updated_at": "2026-10-13T11:20:23+07:00"
   },
   {
@@ -2672,7 +2672,7 @@
    "geostore_id": "91bc3faff200a132c63fc11ce4890c66",
    "geom_hash": "f04e8a30f69630bca55b6d2776675c86",
    "status": "alive",
-   "last_checked": "2026-10-17T03:02:32+07:00",
+   "last_checked": "2026-10-17T12:50:58+07:00",
    "geom_updated_at": "2026-10-13T11:20:23+07:00"
   },
   {
@@ -2681,7 +2681,7 @@
    "geostore_id": "23f210dba2e0d689d2dfa79ee77b2708",
    "geom_hash": "8f8b661d7b33bd81ac6e5c14dfccd2d4",
    "status": "alive",
-   "last_checked": "2026-10-17T03:02:32+07:00",
+   "last_checked": "2026-10-17T12:51:00+07:00",
    "geom_updated_at": "2026-10-13T11:20:24+07:00"
   },
   {
@@ -2690,7 +2690,7 @@
    "geostore_id": "2c533f606c28c813028d40cef7c9d69a",
    "geom_hash": "0ae40d21a1a0c4865da22c2d3d9eb640",
    "status": "alive",
-   "last_checked": "2026-10-17T03:02:33+07:00",
+   "last_checked": "2026-10-17T12:51:01+07:00",
    "geom_updated_at": "2026-10-13T11:20:25+07:00"
   },
   {
@@ -2699,7 +2699,7 @@
    "geostore_id": "ee49948da37b1c88ac5fdca8aae4f111",
    "geom_hash": "e62aed3034c8247452c3cfcf55fa9f14",
    "status": "alive",
-   "last_checked": "2026-10-17T03:02:33+07:00",
+   "last_checked": "2026-10-17T12:51:03+07:00",
    "geom_updated_at": "2026-10-13T11:20:25+07:00"
   },
   {
@@ -2708,7 +2708,7 @@
    "geostore_id": "2c9b0ac8a67915d4e985779d0f9f81e8",
    "geom_hash": "a425253c3952a972cd973f578651dcf3",
    "status": "alive",
-   "last_checked": "2026-10-17T03:02:33+07:00",
+   "last_checked": "2026-10-17T12:51:04+07:00",
    "geom_updated_at": "2026-10-13T11:20:26+07:00"
   },
   {
@@ -2717,7 +2717,7 @@
    "geostore_id": "78c5f8ad16a3da6a62260909c97c4926",
    "geom_hash": "f636f267605617b6f2712bc42950e718",
    "status": "alive",
-   "last_checked": "2026-10-17T03:02:34+07:00",
+   "last_checked": "2026-10-17T12:51:05+07:00",
    "geom_updated_at": "2026-10-13T11:20:26+07:00"
   },
   {
@@ -2726,7 +2726,7 @@
    "geostore_id": "6161a4985f7d2daf940d27fa95d11b5c",
    "geom_hash": "891c30ec34e39c557fe6d518d0afa39e",
    "status": "alive",
-   "last_checked": "2026-10-17T03:02:34+07:00",
+   "last_checked": "2026-10-17T12:51:07+07:00",
    "geom_updated_at": "2026-10-13T11:20:27+07:00"
   },
   {
@@ -2735,7 +2735,7 @@
    "geostore_id": "3f7d5fb8bc4dfe6c27306d682e2f6b4c",
    "geom_hash": "7bafc988bb87fd5c769867439a8dd5be",
    "status": "alive",
-   "last_checked": "2026-10-17T03:02:35+07:00",
+   "last_checked": "2026-10-17T12:51:07+07:00",
    "geom_updated_at": "2026-10-13T11:20:27+07:00"
   },
   {
@@ -2744,7 +2744,7 @@
    "geostore_id": "f9e91da80f4b3900b7a361d2c6a0d728",
    "geom_hash": "fbecf85fbe4c61a1a6d90b394776f2ed",
    "status": "alive",
-   "last_checked": "2026-10-17T03:02:35+07:00",
+   "last_checked": "2026-10-17T12:51:09+07:00",
    "geom_updated_at": "2026-10-13T11:20:28+07:00"
   },
   {
@@ -2753,7 +2753,7 @@
    "geostore_id": "710bc4906b9a0cb3b26e1a93331357ff",
    "geom_hash": "f451b28eb7c141340a8fa25b42ced202",
    "status": "alive",
-   "last_checked": "2026-10-17T03:02:36+07:00",
+   "last_checked": "2026-10-17T12:51:09+07:00",
    "geom_updated_at": "2026-10-13T11:20:29+07:00"
   },
   {
@@ -2762,7 +2762,7 @@
    "geostore_id": "4f32e8c2061a1733de10dadfac7a8ddb",
    "geom_hash": "ae5efb604de67f34a4aef9c62a6a03ca",
    "status": "alive",
-   "last_checked": "2026-10-17T03:02:36+07:00",
+   "last_checked": "2026-10-17T12:51:10+07:00",
    "geom_updated_at": "2026-10-13T11:20:29+07:00"
   },
   {
@@ -2771,7 +2771,7 @@
    "geostore_id": "84fabf6bad82cb505efe14cfc7cd4d64",
    "geom_hash": "d911fa3d1ab21f65db713cbf5faaa76b",
    "status": "alive",
-   "last_checked": "2026-10-17T03:02:36+07:00",
+   "last_checked": "2026-10-17T12:51:11+07:00",
    "geom_updated_at": "2026-10-13T11:20:30+07:00"
   },
   {
@@ -2780,7 +2780,7 @@
    "geostore_id": "33fb5efb24cc35153f57ab466ffb89a3",
    "geom_hash": "d089b3acf1651edd14f6b6a0166d2b4b",
    "status": "alive",
-   "last_checked": "2026-10-17T03:02:37+07:00",
+   "last_checked": "2026-10-17T12:51:12+07:00",
    "geom_updated_at": "2026-10-13T11:20:30+07:00"
   },
   {
@@ -2789,7 +2789,7 @@
    "geostore_id": "c74bf694604510fb176bc6ae7af686d1",
    "geom_hash": "601e659c3f1d079766321891b0764e8d",
    "status": "alive",
-   "last_checked": "2026-10-17T03:02:37+07:00",
+   "last_checked": "2026-10-17T12:51:13+07:00",
    "geom_updated_at": "2026-10-13T11:20:31+07:00"
   },
   {
@@ -2798,7 +2798,7 @@
    "geostore_id": "079e04309257c0b1abdd42272dbcdd1a",
    "geom_hash": "325d3f8eb17afecb0dead4766bf90782",
    "status": "alive",
-   "last_checked": "2026-10-17T03:02:38+07:00",
+   "last_checked": "2026-10-17T12:51:14+07:00",
    "geom_updated_at": "2026-10-13T11:20:32+07:00"
   },
   {
@@ -2807,7 +2807,7 @@
    "geostore_id": "06fc18a1828a833bbdf5ce193d921995",
    "geom_hash": "14eeadb6c62176ec84e0981115c63999",
    "status": "alive",
-   "last_checked": "2026-10-17T03:02:38+07:00",
+   "last_checked": "2026-10-17T12:51:15+07:00",
    "geom_updated_at": "2026-10-13T11:20:32+07:00"
   },
   {
@@ -2816,7 +2816,7 @@
    "geostore_id": "b6747df044e679693a353309fd790495",
    "geom_hash": "ae1706d6964ad4331a1d953ecc967b62",
    "status": "alive",
-   "last_checked": "2026-10-17T03:02:39+07:00",
+   "last_checked": "2026-10-17T12:51:16+07:00",
    "geom_updated_at": "2026-10-13T11:20:33+07:00"
   },
   {
@@ -2825,7 +2825,7 @@
    "geostore_id": "687f42565f0734c39c4e52f6cc8a8fb8",
    "geom_hash": "4af43bd2b4d3ec63407932659893622e",
    "status": "alive",
-   "last_checked": "2026-10-17T03:02:39+07:00",
+   "last_checked": "2026-10-17T12:51:17+07:00",
    "geom_updated_at": "2026-10-13T11:20:33+07:00"
   },
   {
@@ -2834,7 +2834,7 @@
    "geostore_id": "1b628a03a8d74e146b9ce2e7244ca0d9",
    "geom_hash": "77bd0c823ecd19d1d72f0329c7d2776e",
    "status": "alive",
-   "last_checked": "2026-10-17T03:02:40+07:00",
+   "last_checked": "2026-10-17T12:51:18+07:00",
    "geom_updated_at": "2026-10-13T11:20:34+07:00"
   },
   {
@@ -2843,7 +2843,7 @@
    "geostore_id": "2adf11bf2f4e27d100c6f07d75983ac1",
    "geom_hash": "ba9c0e3ed59a14901cd74c82caaab190",
    "status": "alive",
-   "last_checked": "2026-10-17T03:02:40+07:00",
+   "last_checked": "2026-10-17T12:51:19+07:00",
    "geom_updated_at": "2026-10-13T11:20:34+07:00"
   },
   {
@@ -2852,7 +2852,7 @@
    "geostore_id": "4ec2d09e3c24a46ddf288962a69994cb",
    "geom_hash": "1ab12d7ac3ad491c6b2058485b959bbf",
    "status": "alive",
-   "last_checked": "2026-10-17T03:02:41+07:00",
+   "last_checked": "2026-10-17T12:51:21+07:00",
    "geom_updated_at": "2026-10-13T11:20:35+07:00"
   },
   {
@@ -2861,7 +2861,7 @@
    "geostore_id": "fad032879c65a1c7d2fd1bb97a6ce7ea",
    "geom_hash": "193888e7a0253c0cf280ba534f6cd4c6",
    "status": "alive",
-   "last_checked": "2026-10-17T03:02:41+07:00",
+   "last_checked": "2026-10-17T12:51:22+07:00",
    "geom_updated_at": "2026-10-13T11:20:35+07:00"
   },
   {
@@ -2870,7 +2870,7 @@
    "geostore_id": "f90e0f4ab60a19c588e3d7535583f1a7",
    "geom_hash": "7752135849bbe99f11b994a112579b60",
    "status": "alive",
-   "last_checked": "2026-10-17T03:02:42+07:00",
+   "last_checked": "2026-10-17T12:51:23+07:00",
    "geom_updated_at": "2026-10-13T11:20:36+07:00"
   },
   {
@@ -2879,7 +2879,7 @@
    "geostore_id": "9e58c60382ef6137923f262f8aff208f",
    "geom_hash": "fa7f5c4e6c38ab27c32daa7a3544a1e3",
    "status": "alive",
-   "last_checked": "2026-10-17T03:02:42+07:00",
+   "last_checked": "2026-10-17T12:51:24+07:00",
    "geom_updated_at": "2026-10-13T11:20:37+07:00"
   },
   {
@@ -2888,7 +2888,7 @@
    "geostore_id": "3d0d85a5e2ff37f5d29207c45565d92f",
    "geom_hash": "eb756a10c01895ff4132552e15aa536f",
    "status": "alive",
-   "last_checked": "2026-10-17T03:02:43+07:00",
+   "last_checked": "2026-10-17T12:51:25+07:00",
    "geom_updated_at": "2026-10-13T11:20:37+07:00"
   },
   {
@@ -2897,7 +2897,7 @@
    "geostore_id": "d1041f472b05e10442b1285db90275de",
    "geom_hash": "4eb405644ad8c679294d27960fba7c62",
    "status": "alive",
-   "last_checked": "2026-10-17T03:02:43+07:00",
+   "last_checked": "2026-10-17T12:51:26+07:00",
    "geom_updated_at": "2026-10-13T11:20:38+07:00"
   },
   {
@@ -2906,7 +2906,7 @@
    "geostore_id": "8cd0002b3b40ed24a60515a20b619f7e",
    "geom_hash": "d0fc7bd0beb6cbd875b999a561470538",
    "status": "alive",
-   "last_checked": "2026-10-17T03:02:44+07:00",
+   "last_checked": "2026-10-17T12:51:27+07:00",
    "geom_updated_at": "2026-10-13T11:20:38+07:00"
   },
   {
@@ -2915,7 +2915,7 @@
    "geostore_id": "dd6ddc483c636f8505310904468ce5f7",
    "geom_hash": "865978bfc0ca7852c697c36784a6d261",
    "status": "alive",
-   "last_checked": "2026-10-17T03:02:44+07:00",
+   "last_checked": "2026-10-17T12:51:28+07:00",
    "geom_updated_at": "2026-10-13T11:20:39+07:00"
   },
   {
@@ -2924,7 +2924,7 @@
    "geostore_id": "3b2253839e5d017935af1e18020235e5",
    "geom_hash": "66ebd8df1642684feaefa3a9f51adc58",
    "status": "alive",
-   "last_checked": "2026-10-17T03:02:45+07:00",
+   "last_checked": "2026-10-17T12:51:29+07:00",
    "geom_updated_at": "2026-10-13T11:20:39+07:00"
   },
   {
@@ -2933,7 +2933,7 @@
    "geostore_id": "d1861c2557a91de2f12073dcae619123",
    "geom_hash": "a91200e3076335ee9089c51ae44a812c",
    "status": "alive",
-   "last_checked": "2026-10-17T03:02:45+07:00",
+   "last_checked": "2026-10-17T12:51:29+07:00",
    "geom_updated_at": "2026-10-13T11:20:40+07:00"
   },
   {
@@ -2942,7 +2942,7 @@
    "geostore_id": "7355909e0354adfab9e65bc644929b50",
    "geom_hash": "9ef7bd50af698d1795e4cc0fcb362857",
    "status": "alive",
-   "last_checked": "2026-10-17T03:02:46+07:00",
+   "last_checked": "2026-10-17T12:51:31+07:00",
    "geom_updated_at": "2026-10-13T11:20:40+07:00"
   },
   {
@@ -2951,7 +2951,7 @@
    "geostore_id": "be28f34e6951fc3a947662adcedc66ba",
    "geom_hash": "37348d7fb7206b930198afba77f9cae0",
    "status": "alive",
-   "last_checked": "2026-10-17T03:02:46+07:00",
+   "last_checked": "2026-10-17T12:51:31+07:00",
    "geom_updated_at": "2026-10-13T11:20:41+07:00"
   },
   {
@@ -2960,7 +2960,7 @@
    "geostore_id": "df117e797c25de0dbc37f558d7d949aa",
    "geom_hash": "b8480e25e1562a9eb24d88e3b3c45a12",
    "status": "alive",
-   "last_checked": "2026-10-17T03:02:47+07:00",
+   "last_checked": "2026-10-17T12:51:31+07:00",
    "geom_updated_at": "2026-10-13T11:20:42+07:00"
   },
   {
@@ -2969,7 +2969,7 @@
    "geostore_id": "81356a67b16f2df0f38b6b8504b1090f",
    "geom_hash": "1dbe7fdc00b652e4f9a60e7203a72f71",
    "status": "alive",
-   "last_checked": "2026-10-17T03:02:47+07:00",
+   "last_checked": "2026-10-17T12:51:32+07:00",
    "geom_updated_at": "2026-10-13T11:20:42+07:00"
   },
   {
@@ -2978,7 +2978,7 @@
    "geostore_id": "bca312f841f23eacb88a493e16657f93",
    "geom_hash": "c3cd3ac1d4aff0ab2eff4d2130e5f0a9",
    "status": "alive",
-   "last_checked": "2026-10-17T03:02:47+07:00",
+   "last_checked": "2026-10-17T12:51:32+07:00",
    "geom_updated_at": "2026-10-13T11:20:43+07:00"
   },
   {
@@ -2987,7 +2987,7 @@
    "geostore_id": "bad1ce3fb7cc0d5afc3173bf19904e81",
    "geom_hash": "7494c1073ae44f2816cb411aa9791ea9",
    "status": "alive",
-   "last_checked": "2026-10-17T03:02:48+07:00",
+   "last_checked": "2026-10-17T12:51:33+07:00",
    "geom_updated_at": "2026-10-13T11:20:43+07:00"
   },
   {
@@ -2996,7 +2996,7 @@
    "geostore_id": "3f1e2e145564b0d6bd8b6a8f7ae69ba9",
    "geom_hash": "3fc64efea20b32b67ac850ab1b4bb15c",
    "status": "alive",
-   "last_checked": "2026-10-17T03:02:48+07:00",
+   "last_checked": "2026-10-17T12:51:33+07:00",
    "geom_updated_at": "2026-10-13T11:20:44+07:00"
   },
   {
@@ -3005,7 +3005,7 @@
    "geostore_id": "b386f4d860c5d53c83a9302bd3cb57dd",
    "geom_hash": "9dc66754c5877ab9bd33ccf2b018ae26",
    "status": "alive",
-   "last_checked": "2026-10-17T03:02:49+07:00",
+   "last_checked": "2026-10-17T12:51:34+07:00",
    "geom_updated_at": "2026-10-13T11:20:44+07:00"
   },
   {
@@ -3014,7 +3014,7 @@
    "geostore_id": "525244c16792a72af6be1dd1e7ebe5c2",
    "geom_hash": "5e964fdea5ce3c1765ea0c5904b588d4",
    "status": "alive",
-   "last_checked": "2026-10-17T03:02:49+07:00",
+   "last_checked": "2026-10-17T12:51:34+07:00",
    "geom_updated_at": "2026-10-13T11:20:45+07:00"
   },
   {
@@ -3023,7 +3023,7 @@
    "geostore_id": "927fee1d398f6e0759af1c75be1b6a9b",
    "geom_hash": "aa9d4b5591ddfb713f1e14bbf38693cc",
    "status": "alive",
-   "last_checked": "2026-10-17T03:02:50+07:00",
+   "last_checked": "2026-10-17T12:51:34+07:00",
    "geom_updated_at": "2026-10-13T11:20:45+07:00"
   },
   {
@@ -3032,7 +3032,7 @@
    "geostore_id": "05a13f63cff773e6fdcdea864bc168df",
    "geom_hash": "6768873add46ee739ed34c52c4905bce",
    "status": "alive",
-   "last_checked": "2026-10-17T03:02:50+07:00",
+   "last_checked": "2026-10-17T12:51:35+07:00",
    "geom_updated_at": "2026-10-13T11:20:46+07:00"
   },
   {
@@ -3041,7 +3041,7 @@
    "geostore_id": "f3b7fee426c617bd1ded2b35738b4858",
    "geom_hash": "839bcb09bb790bca118950836049c452",
    "status": "alive",
-   "last_checked": "2026-10-17T03:02:51+07:00",
+   "last_checked": "2026-10-17T12:51:35+07:00",
    "geom_updated_at": "2026-10-13T11:20:46+07:00"
   },
   {
@@ -3050,7 +3050,7 @@
    "geostore_id": "0c5a58c8bd2d7e0a6b9e14dfd4d90b1b",
    "geom_hash": "ef5d8ac33205a5a340fe30dca1d524dc",
    "status": "alive",
-   "last_checked": "2026-10-17T03:02:51+07:00",
+   "last_checked": "2026-10-17T12:51:36+07:00",
    "geom_updated_at": "2026-10-13T11:20:47+07:00"
   },
   {
@@ -3059,7 +3059,7 @@
    "geostore_id": "2118de3938685ef4486620948b5fd08e",
    "geom_hash": "67e7d85dd5b59226821f62bcc40e0a7e",
    "status": "alive",
-   "last_checked": "2026-10-17T03:02:51+07:00",
+   "last_checked": "2026-10-17T12:51:36+07:00",
    "geom_updated_at": "2026-10-13T11:20:47+07:00"
   }
  ]
